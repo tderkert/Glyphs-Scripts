@@ -15,11 +15,7 @@ for mLetter in masterLetters:
 	for sLetter in sideLetters:
 		sLetterString = '/'+sLetter.name+' '
 
-		newLine = prepend
-		# newLine += sLetterString
-		newLine += mLetter
-		newLine += sLetterString
-		newLine += append
+		newLine = prepend + mLetter + sLetterString + append
 		finalString += newLine+'\n'
 
 font.newTab(finalString)
