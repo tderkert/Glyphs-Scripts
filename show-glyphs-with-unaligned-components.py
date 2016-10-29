@@ -19,4 +19,4 @@ for glyph in glyphs:
 
 
 # Open new tab
-thisFont.newTab( glyphsString )
+font.newTab( glyphsString )
