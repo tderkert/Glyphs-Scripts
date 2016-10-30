@@ -1,8 +1,11 @@
 # Glyphs-Scripts
-Python scripts for Glyphsapp
+Python scripts for [Glyphs](glyphsapp.com) font editor.
 
 
 ## Scripts
+ 
+**New tab with glyphs containing unaligned components:** Open new tab with glyphs containing unaligned components (only in current layer)
 
-**New Tab with kerning pairs for F,T,V,W,Y to selected glyphs:** Useful for making kerning exceptions for tall diacritical characters, i.e. 'Tȁ'  
-**Fixed Width and Center Selected Glyphs:** Set fixed width and center selected glyphs. (Proceed with caution as it decomposes all components to avoid weird positioning)  
+**New tab with glyphs containing both components and paths in same layer:** Open new tab with glyphs containing both components and paths in same layer (only in current layer)
+
+**Fixed Width and Center Selected Glyphs:** Set fixed width and center selected glyphs. (Proceed with caution as it decomposes all components to avoid weird positioning) 
