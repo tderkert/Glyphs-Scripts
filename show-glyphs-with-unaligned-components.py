@@ -7,7 +7,7 @@ glyphsString = ''
 
 print("Glyphs with unaligned components:")
 for glyph in glyphs:
-	layer = glyph.layers[0]
+	layer = font.selectedLayers[0]
 	components = layer.components
 	hasUnalignedComponent = False
 	

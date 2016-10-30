@@ -7,7 +7,7 @@ glyphsString = ''
 
 print("Glyphs with components and paths in same layer:")
 for glyph in glyphs:
-	layer = glyph.layers[0]
+	layer = font.selectedLayers[0]
 	components = layer.components
 	paths = layer.paths
 	
