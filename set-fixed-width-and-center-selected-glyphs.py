@@ -1,5 +1,5 @@
-#MenuTitle: Fixed Width and Center Selected Glyphs
-'''Set fixed width and center selected glyphs. Proceed with caution!'''
+#MenuTitle: Set Fixed Width and Center Selected Glyphs
+'''Set fixed width and center selected glyphs. Destructive: Proceed with caution!'''
 
 thisFont = Glyphs.font # frontmost font
 selectedGlyphs = thisFont.selection

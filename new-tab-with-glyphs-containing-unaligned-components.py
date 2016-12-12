@@ -1,12 +1,12 @@
-#MenuTitle: New tab with glyphs containing unaligned components
-'''Open new tab with glyphs containing unaligned components (only in current master)'''
+#MenuTitle: New Tab With Glyphs Containing Unaligned Components
+'''New tab with glyphs containing unaligned components (only in current master)'''
 
 font = Glyphs.font
 glyphs = font.glyphs
 glyphsString = ''
 currentMaster = font.selectedFontMaster
 
-print("Glyphs with unaligned components (" + currentLayer.name + "):")
+print("Glyphs with unaligned components (" + currentMaster.name + "):")
 for glyph in glyphs:
 	layer = glyph.layers[currentMaster.id]
 	components = layer.components
