@@ -66,10 +66,10 @@
         "usesAllLetters": "yes, including diacritics except circumflex and cedilla"
     },
     {
-        "lang": "Portez ce vieux whisky au juge blond qui fume.",
-        "phrase": "Bring this old whisky to the blond smoking judge.",
-        "translation": "yes, but no diacritics",
-        "usesAllLetters": ""
+        "lang": "French",
+        "phrase": "Portez ce vieux whisky au juge blond qui fume.",
+        "translation": "Bring this old whisky to the blond smoking judge.",
+        "usesAllLetters": "yes, but no diacritics"
     },
     {
         "lang": "German",
@@ -78,10 +78,10 @@
         "usesAllLetters": "yes (including umlauts and ß)"
     },
     {
-        "lang": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.",
-        "phrase": "Franz drives all across Bavaria in a totally run-down taxi.",
-        "translation": "yes (lacking umlauts and ß)",
-        "usesAllLetters": ""
+        "lang": "German",
+        "phrase": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.",
+        "translation": "Franz drives all across Bavaria in a totally run-down taxi.",
+        "usesAllLetters": "yes (lacking umlauts and ß)"
     },
     {
         "lang": "Greek",
@@ -90,7 +90,7 @@
         "usesAllLetters": "no"
     },
     {
-        "lang": "Greek alt.",
+        "lang": "Greek",
         "phrase": "Ο καλύμνιος σφουγγαράς ψιθύρισε πως θα βουτήξει χωρίς να διστάζει.",
         "translation": "The Calymnian spongeman whispered that he’ll dive without hesitating.",
         "usesAllLetters": "yes (not all accented letters included)"
@@ -120,7 +120,7 @@
         "usesAllLetters": "Each letter exactly once"
     },
     {
-        "lang": "Icelandic alt.",
+        "lang": "Icelandic",
         "phrase": "Þú dazt á hnéð í vök og yfir blóm sexý pæju",
         "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower.",
         "usesAllLetters": "each letter exactly once, with z (obsolete spelling)"
@@ -180,10 +180,10 @@
         "usesAllLetters": "no"
     },
     {
-        "lang": "Zebras caolhas de Java querem passar fax para moças gigantes de New York",
-        "phrase": "Strabic zebras from Java want to pass a fax to giant girls from New York.",
-        "translation": "yes",
-        "usesAllLetters": ""
+        "lang": "Brazilian Portuguese",
+        "phrase": "Zebras caolhas de Java querem passar fax para moças gigantes de New York",
+        "translation": "Strabic zebras from Java want to pass a fax to giant girls from New York.",
+        "usesAllLetters": "yes"
     },
     {
         "lang": "Romanian",
@@ -252,7 +252,7 @@
         "usesAllLetters": "yes"
     },
     {
-        "lang": "Uyghur alt.",
+        "lang": "Uyghur",
         "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
         "translation": "Zöhregül Abduwajit is a quite unpleasant student in Paris, France.",
         "usesAllLetters": "yes"
