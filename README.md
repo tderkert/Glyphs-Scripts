@@ -3,6 +3,8 @@ Python scripts for [Glyphs](glyphsapp.com) font editor.
 
 
 ## Scripts
+
+**New Tab With Pangram from Selected Langauge:** Select a language in list and open a new tab with a pangram.
  
 **New tab with glyphs containing bracket layers:** Open new tab with glyphs containing bracket layers.
 
