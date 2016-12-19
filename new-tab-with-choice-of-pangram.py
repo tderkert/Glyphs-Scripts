@@ -17,33 +17,28 @@ with open('pangrams.json') as data_file:
     pangrams = json.load(data_file)
 
 class PangramSelecter(object):
-	langList = list()
 	def __init__(self):
-		self.createList()
-		self.w = Window((300, 400),"New Tab With Pangram", minSize=(250,200), maxSize=(330,1000))
+		self.w = Window((700, 400),"New Tab With Pangram", minSize=(250,200), maxSize=(1000,1000))
 		self.w.textBox = TextBox((10, 10, -10, 55), "Select Language(s):")
-		self.w.list = List((10, 40, 280, -40), self.langList)
-		self.w.button = Button((10, -30, 280, 20), "OpenTab", callback=self.buttonCallback)
+		self.w.list = List((10, 40, -10, -40), pangrams, columnDescriptions=[{"title": "lang", "width": 200}, {"title": "phrase"}, {"title": "usesAllLetters", "width": 300}])
+		self.w.button = Button((10, -30, -10, 20), "OpenTab", callback=self.buttonCallback)
 		self.w.open()
 	
 
 	def buttonCallback(self, sender):
 		listIndexes = self.w.list.getSelection()
 		for i in listIndexes:
+			# Open tab with phrase
 			phrase = pangrams[i]["phrase"]
 			font.newTab( phrase )
-
 			# Print details in Macro window
 			print("---- " + pangrams[i]["lang"] + " ----")
 			print( "Phrase: " + pangrams[i]["phrase"] )
 			print( "Translation: " + pangrams[i]["translation"] )
-			print( "Uses All Letters?: " + pangrams[i]["usesAllLetters"] )
+			print( "Uses All Letters: " + pangrams[i]["usesAllLetters"] )
 		print("------------------")
-		self.w.close() # delete if you want window to stay open
-
-	def createList(self):
-		for item in pangrams:
-			self.langList.append(item["lang"])
+		# Close
+		self.w.close() 
 
 
 PangramSelecter()
