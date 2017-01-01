@@ -1,260 +1,346 @@
 [
-    {
-        "lang": "Bulgarian",
-        "phrase": "Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.",
-        "translation": "А little fluffy young rabbit ran under a southern tree blooming in blue",
-        "usesAllLetters": "Yes"
-    },
-    {
-        "lang": "Czech",
-        "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy.",
-        "translation": "A too yellow horse moaned devil odes.",
-        "usesAllLetters": "no (but it uses all characters with diacritics)"
-    },
-    {
-        "lang": "Chinese (Traditional)",
-        "phrase": "視野無限廣，窗外有藍天",
-        "translation": "The view is infinitely wide. There is blue sky outside the window.[9]",
-        "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)"
-    },
-    {
-        "lang": "Chinese (Traditional) (in Windows Vista and Windows 7)",
-        "phrase": "微風迎客，軟語伴茶",
-        "translation": "The breeze sees the guest in. Soft voice accompanies the tea.[10]",
-        "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)"
-    },
-    {
-        "lang": "Chinese (Simplified) (in Windows 7 and Windows 8)",
-        "phrase": "Innovation in China 中国智造，慧及全球 0123456789",
-        "translation": "Innovation in China benefits the whole world.[11]",
-        "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)"
-    },
-    {
-        "lang": "Danish",
-        "phrase": "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.",
-        "translation": "The quiz contestants ate strawberries with cream while Walther the clown was playing the xylophone.",
-        "usesAllLetters": "Yes"
-    },
-    {
-        "lang": "Dutch",
-        "phrase": "Pa’s wijze lynx bezag vroom het fikse aquaduct.",
-        "translation": "Dad’s wise lynx piously regarded the substantial aqueduct.",
-        "usesAllLetters": "yes (and not including accents)"
-    },
-    {
-        "lang": "Esperanto",
-        "phrase": "Eĥoŝanĝo ĉiuĵaŭde.",
-        "translation": "Change of echo every Thursday.",
-        "usesAllLetters": "no (but contains all characters specific to Esperanto)"
-    },
-    {
-        "lang": "Estonian",
-        "phrase": "See väike mölder jõuab rongile hüpata",
-        "translation": "This small miller is able to jump to train",
-        "usesAllLetters": "no (without c, f, q, w, x, y, z, š, ž)"
-    },
-    {
-        "lang": "Finnish",
-        "phrase": "Viekas kettu punaturkki laiskan koiran takaa kurkki.",
-        "translation": "The cunning red-coated fox peeped from behind the lazy dog.",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "French",
-        "phrase": "Voix ambiguë d’un cœur qui au zéphyr préfère les jattes de kiwis.",
-        "translation": "Ambiguous voice of a heart which prefers dishes of kiwis in the breeze [used in Windows XP]",
-        "usesAllLetters": "yes, including diacritics except circumflex and cedilla"
-    },
-    {
-        "lang": "French",
-        "phrase": "Portez ce vieux whisky au juge blond qui fume.",
-        "translation": "Bring this old whisky to the blond smoking judge.",
-        "usesAllLetters": "yes, but no diacritics"
-    },
-    {
-        "lang": "German",
-        "phrase": "Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich",
-        "translation": "Twelve boxing fighters drive Viktor over the great Sylt Dike",
-        "usesAllLetters": "yes (including umlauts and ß)"
-    },
-    {
-        "lang": "German",
-        "phrase": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.",
-        "translation": "Franz drives all across Bavaria in a totally run-down taxi.",
-        "usesAllLetters": "yes (lacking umlauts and ß)"
-    },
-    {
-        "lang": "Greek",
-        "phrase": "Θέλει αρετή και τόλμη η ελευθερία. (Ανδρέας Κάλβος)",
-        "translation": "Liberty requires virtue and mettle. (Andreas Kalvos)",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "Greek",
-        "phrase": "Ο καλύμνιος σφουγγαράς ψιθύρισε πως θα βουτήξει χωρίς να διστάζει.",
-        "translation": "The Calymnian spongeman whispered that he’ll dive without hesitating.",
-        "usesAllLetters": "yes (not all accented letters included)"
-    },
-    {
-        "lang": "Hebrew",
-        "phrase": "דג סקרן שט לו בים זך אך לפתע פגש חבורה נחמדה שצצה כך.",
-        "translation": "A curious fish sailed a clear sea, and suddenly found nice company that just popped up.",
-        "usesAllLetters": "yes, but with no distinction between regular and final forms."
-    },
-    {
-        "lang": "Hungarian (in Windows)",
-        "phrase": "Árvíztűrő tükörfúrógép",
-        "translation": "Flood-resistant mirror drill",
-        "usesAllLetters": "no (but contains all characters specific to Hungarian)"
-    },
-    {
-        "lang": "Hungarian",
-        "phrase": "Egy hűtlen vejét fülöncsípő, dühös mexikói úr Wesselényinél mázol Quitóban.",
-        "translation": "An angry Mexican man, who caught his faithless son-in-law, is painting Wesselényi’s house in Quito.",
-        "usesAllLetters": "without digraphs, which are considered letters of their own"
-    },
-    {
-        "lang": "Icelandic",
-        "phrase": "Svo hölt, yxna kýr þegði jú um dóp í fé á bæ",
-        "translation": "A cow in heat with such a limp would admittedly keep silent about drugs in sheep on a farm.",
-        "usesAllLetters": "Each letter exactly once"
-    },
-    {
-        "lang": "Icelandic",
-        "phrase": "Þú dazt á hnéð í vök og yfir blóm sexý pæju",
-        "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower.",
-        "usesAllLetters": "each letter exactly once, with z (obsolete spelling)"
-    },
-    {
-        "lang": "Indonesian",
-        "phrase": "Saya lihat foto Hamengkubuwono XV bersama enam zebra purba cantik yang jatuh dari Al Quranmu.",
-        "translation": "I saw a photo of Hamengkubuwono XV along with six beautiful ancient Zebra which fell from your Al Quran",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Italian",
-        "phrase": "Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.",
-        "translation": "But the fox, with its jump, reached the calm dog",
-        "usesAllLetters": "yes (without foreign characters j,k,w,x,y)"
-    },
-    {
-        "lang": "Japanese",
-        "phrase": "いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす",
-        "translation": "Even the blossoming flowers / Will eventually scatter / Who in this world / is unchanging? / The deep mountains of vanity- / We cross them today / And we shall not see superficial dreams / Nor be deluded. (from Iroha-uta)",
-        "usesAllLetters": "all non-voiced hiragana except ん"
-    },
-    {
-        "lang": "Korean",
-        "phrase": "다람쥐 헌 쳇바퀴에 타고파",
-        "translation": "(I) Wanna ride on the chipmunk’s old hamster wheel. or Because Hamster want to ride on old Hamster wheel…",
-        "usesAllLetters": "uses all consonants but not all vowels"
-    },
-    {
-        "lang": "Latvian",
-        "phrase": "Sarkanās jūrascūciņas peld pa jūru.",
-        "translation": "Red seapigs swim in the sea.",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "Norwegian (bokmål)",
-        "phrase": "En god stil må først og fremst være klar. Den må være passende. Aristoteles.",
-        "translation": "A good essay must first and foremost be clear. It must be appropriate. Aristotle.",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "Polish",
-        "phrase": "Pchnąć w tę łódź jeża lub ośm skrzyń fig",
-        "translation": "Push into this boat a hedgehog or eight boxes of figs.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Portuguese",
-        "phrase": "A rápida raposa castanha salta por cima do cão lento.",
-        "translation": "The quick brown fox jumps over the slow dog.",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "Brazilian Portuguese",
-        "phrase": "A ligeira raposa marrom ataca o cão preguiçoso.",
-        "translation": "The quick brown fox attacks the lazy dog.",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "Brazilian Portuguese",
-        "phrase": "Zebras caolhas de Java querem passar fax para moças gigantes de New York",
-        "translation": "Strabic zebras from Java want to pass a fax to giant girls from New York.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Romanian",
-        "phrase": "Agera vulpe maronie sare peste câinele cel leneş.",
-        "translation": "The quick brown fox jumps over the lazy dog.",
-        "usesAllLetters": "no"
-    },
-    {
-        "lang": "Russian",
-        "phrase": "Съешь ещё этих мягких французских булок да выпей же чаю",
-        "translation": "Eat some more of these soft French buns and drink some tea [used in Windows XP]",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Serbian (Cyrillic alphabet)",
-        "phrase": "Чешће цeђење мрeжастим џаком побољшава фертилизацију генских хибрида.",
-        "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Serbian (Latin alphabet)",
-        "phrase": "Češće ceđenje mrežastim džakom poboljšava fertilizaciju genskih hibrida.",
-        "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Slovak",
-        "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
-        "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat. (Modified sentence which contains all accents and diacritics.)",
-        "usesAllLetters": "except unaccented Y, C (as distinct from part of the digraph and separate letter CH), J, unaccented L, and the foreign letters F, G, Ó, Q, W, X"
-    },
-    {
-        "lang": "Slovene",
-        "phrase": "V kožuščku hudobnega fanta stopiclja mizar in kliče 0619872345.",
-        "translation": "A cabinetmaker steps lightly through a malicious boy fur coat and calls 0619872345.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Spanish",
-        "phrase": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.",
-        "translation": "The quick Hindu bat was happily eating thistle and kiwi. The stork played the saxophone behind the straw palisade.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Swedish",
-        "phrase": "Flygande bäckasiner söka hwila på mjuka tuvor",
-        "translation": "Flying snipes soon look to rest on soft grass beds (with obsolete Swedish spelling and grammar)",
-        "usesAllLetters": "except Q, X and Z"
-    },
-    {
-        "lang": "Thai",
-        "phrase": "เป็นมนุษย์สุดประเสริฐเลิศคุณค่า\n\t\t\t\t\tกว่าบรรดาฝูงสัตว์เดรัจฉาน\n\t\t\t\t\tจงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร\n\t\t\t\t\tไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า\n\t\t\t\t\tหัดอภัยเหมือนกีฬาอัชฌาสัย\n\t\t\t\t\tปฏิบัติประพฤติกฎกำหนดใจ\n\t\t\t\tพูดจาให้จ๊ะ ๆ จ๋า ๆ น่าฟังเอยฯ",
-        "translation": "\n\t\t\t\t\tBeing a man is worthy\n\t\t\t\t\t\tBeyond senseless animal\n\t\t\t\t\t\tBegin educate thyself\n\t\t\t\t\t\tBegone from killing and trouble\n\t\t\t\t\t\tBear not thy grudge, damn and, curse\n\t\t\t\t\t\tBestow forgiving and sporting\n\t\t\t\t\t\tBefit with rules\n\t\t\t\t\t\tBenign speech speak thou\n\t\t\t\t\t\n\t\t\t\t",
-        "usesAllLetters": "except ฦ"
-    },
-    {
-        "lang": "Turkish",
-        "phrase": "Pijamalı hasta, yağız şoföre çabucak güvendi",
-        "translation": "Patient with pajamas, trusted swarthy driver quickly",
-        "usesAllLetters": "Without the circumflex diacritic and the foreign characters Q, W, and X"
-    },
-    {
-        "lang": "Uyghur",
-        "phrase": "زۆھرەگۈل ئابدۇۋاجىت فرانسىيەنىڭ پارىژدىكى خېلى بىشەم ئوقۇغۇچى.",
-        "translation": "Those two roosters were not able to move to the mountain near Paris in France.",
-        "usesAllLetters": "yes"
-    },
-    {
-        "lang": "Uyghur",
-        "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
-        "translation": "Zöhregül Abduwajit is a quite unpleasant student in Paris, France.",
-        "usesAllLetters": "yes"
-    }
+  {
+    "lang": "Bulgarian",
+    "phrase": "Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.",
+    "translation": "А little fluffy young rabbit ran under a southern tree blooming in blue",
+    "usesAllLetters": "Yes",
+    "scriptTag": "cyrl",
+    "iso": "BGR"
+  },
+  {
+    "lang": "Czech",
+    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy.",
+    "translation": "A too yellow horse moaned devil odes.",
+    "usesAllLetters": "no (but it uses all characters with diacritics)",
+    "scriptTag": "latn",
+    "iso": "CSY"
+  },
+  {
+    "lang": "Chinese (Traditional)",
+    "phrase": "視野無限廣，窗外有藍天",
+    "translation": "The view is infinitely wide. There is blue sky outside the window.[9]",
+    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
+    "scriptTag": "hani",
+    "iso": "ZHT"
+  },
+  {
+    "lang": "Chinese (Traditional) (in Windows Vista and Windows 7)",
+    "phrase": "微風迎客，軟語伴茶",
+    "translation": "The breeze sees the guest in. Soft voice accompanies the tea.[10]",
+    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
+    "scriptTag": "hani",
+    "iso": "ZHT"
+  },
+  {
+    "lang": "Chinese (Simplified) (in Windows 7 and Windows 8)",
+    "phrase": "Innovation in China 中国智造，慧及全球 0123456789",
+    "translation": "Innovation in China benefits the whole world.[11]",
+    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
+    "scriptTag": "hani",
+    "iso": "ZHS"
+  },
+  {
+    "lang": "Danish",
+    "phrase": "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.",
+    "translation": "The quiz contestants ate strawberries with cream while Walther the clown was playing the xylophone.",
+    "usesAllLetters": "Yes",
+    "scriptTag": "latn",
+    "iso": "DAN"
+  },
+  {
+    "lang": "Dutch",
+    "phrase": "Pa’s wijze lynx bezag vroom het fikse aquaduct.",
+    "translation": "Dad’s wise lynx piously regarded the substantial aqueduct.",
+    "usesAllLetters": "yes (and not including accents)",
+    "scriptTag": "latn",
+    "iso": "NLD"
+  },
+  {
+    "lang": "Esperanto",
+    "phrase": "Eĥoŝanĝo ĉiuĵaŭde.",
+    "translation": "Change of echo every Thursday.",
+    "usesAllLetters": "no (but contains all characters specific to Esperanto)",
+    "scriptTag": "latn",
+    "iso": "NTO"
+  },
+  {
+    "lang": "Estonian",
+    "phrase": "See väike mölder jõuab rongile hüpata",
+    "translation": "This small miller is able to jump to train",
+    "usesAllLetters": "no (without c, f, q, w, x, y, z, š, ž)",
+    "scriptTag": "latn",
+    "iso": "ETI"
+  },
+  {
+    "lang": "Finnish",
+    "phrase": "Viekas kettu punaturkki laiskan koiran takaa kurkki.",
+    "translation": "The cunning red-coated fox peeped from behind the lazy dog.",
+    "usesAllLetters": "no",
+    "scriptTag": "latn",
+    "iso": "FIN"
+  },
+  {
+    "lang": "French",
+    "phrase": "Voix ambiguë d’un cœur qui au zéphyr préfère les jattes de kiwis.",
+    "translation": "Ambiguous voice of a heart which prefers dishes of kiwis in the breeze [used in Windows XP]",
+    "usesAllLetters": "yes, including diacritics except circumflex and cedilla",
+    "scriptTag": "latn",
+    "iso": "FRA"
+  },
+  {
+    "lang": "French",
+    "phrase": "Portez ce vieux whisky au juge blond qui fume.",
+    "translation": "Bring this old whisky to the blond smoking judge.",
+    "usesAllLetters": "yes, but no diacritics",
+    "scriptTag": "latn",
+    "iso": "FRA"
+  },
+  {
+    "lang": "German",
+    "phrase": "Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich",
+    "translation": "Twelve boxing fighters drive Viktor over the great Sylt Dike",
+    "usesAllLetters": "yes (including umlauts and ß)",
+    "scriptTag": "latn",
+    "iso": "GER"
+  },
+  {
+    "lang": "German",
+    "phrase": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.",
+    "translation": "Franz drives all across Bavaria in a totally run-down taxi.",
+    "usesAllLetters": "yes (lacking umlauts and ß)",
+    "scriptTag": "latn",
+    "iso": "GER"
+  },
+  {
+    "lang": "Greek",
+    "phrase": "Θέλει αρετή και τόλμη η ελευθερία. (Ανδρέας Κάλβος)",
+    "translation": "Liberty requires virtue and mettle. (Andreas Kalvos)",
+    "usesAllLetters": "no",
+    "scriptTag": "grek",
+    "iso": "ELL"
+  },
+  {
+    "lang": "Greek",
+    "phrase": "Ο καλύμνιος σφουγγαράς ψιθύρισε πως θα βουτήξει χωρίς να διστάζει.",
+    "translation": "The Calymnian spongeman whispered that he’ll dive without hesitating.",
+    "usesAllLetters": "yes (not all accented letters included)",
+    "scriptTag": "grek",
+    "iso": "ELL"
+  },
+  {
+    "lang": "Hebrew",
+    "phrase": "דג סקרן שט לו בים זך אך לפתע פגש חבורה נחמדה שצצה כך.",
+    "translation": "A curious fish sailed a clear sea, and suddenly found nice company that just popped up.",
+    "usesAllLetters": "yes, but with no distinction between regular and final forms.",
+    "scriptTag": "hebr",
+    "iso": "IWR"
+  },
+  {
+    "lang": "Hungarian (in Windows)",
+    "phrase": "Árvíztűrő tükörfúrógép",
+    "translation": "Flood-resistant mirror drill",
+    "usesAllLetters": "no (but contains all characters specific to Hungarian)",
+    "scriptTag": "latn",
+    "iso": "HUN"
+  },
+  {
+    "lang": "Hungarian",
+    "phrase": "Egy hűtlen vejét fülöncsípő, dühös mexikói úr Wesselényinél mázol Quitóban.",
+    "translation": "An angry Mexican man, who caught his faithless son-in-law, is painting Wesselényi’s house in Quito.",
+    "usesAllLetters": "without digraphs, which are considered letters of their own",
+    "scriptTag": "latn",
+    "iso": "HUN"
+  },
+  {
+    "lang": "Icelandic",
+    "phrase": "Svo hölt, yxna kýr þegði jú um dóp í fé á bæ",
+    "translation": "A cow in heat with such a limp would admittedly keep silent about drugs in sheep on a farm.",
+    "usesAllLetters": "Each letter exactly once",
+    "scriptTag": "latn",
+    "iso": "ISL"
+  },
+  {
+    "lang": "Icelandic",
+    "phrase": "Þú dazt á hnéð í vök og yfir blóm sexý pæju",
+    "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower.",
+    "usesAllLetters": "each letter exactly once, with z (obsolete spelling)",
+    "scriptTag": "latn",
+    "iso": "ISL"
+  },
+  {
+    "lang": "Indonesian",
+    "phrase": "Saya lihat foto Hamengkubuwono XV bersama enam zebra purba cantik yang jatuh dari Al Quranmu.",
+    "translation": "I saw a photo of Hamengkubuwono XV along with six beautiful ancient Zebra which fell from your Al Quran",
+    "usesAllLetters": "yes",
+    "scriptTag": 0,
+    "iso": 0
+  },
+  {
+    "lang": "Italian",
+    "phrase": "Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.",
+    "translation": "But the fox, with its jump, reached the calm dog",
+    "usesAllLetters": "yes (without foreign characters j,k,w,x,y)",
+    "scriptTag": "latn",
+    "iso": "ITA"
+  },
+  {
+    "lang": "Japanese",
+    "phrase": "いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす",
+    "translation": "Even the blossoming flowers / Will eventually scatter / Who in this world / is unchanging? / The deep mountains of vanity- / We cross them today / And we shall not see superficial dreams / Nor be deluded. (from Iroha-uta)",
+    "usesAllLetters": "all non-voiced hiragana except ん",
+    "scriptTag": "kana",
+    "iso": "JPN"
+  },
+  {
+    "lang": "Korean",
+    "phrase": "다람쥐 헌 쳇바퀴에 타고파",
+    "translation": "(I) Wanna ride on the chipmunk’s old hamster wheel. or Because Hamster want to ride on old Hamster wheel…",
+    "usesAllLetters": "uses all consonants but not all vowels",
+    "scriptTag": "hang",
+    "iso": "KOR"
+  },
+  {
+    "lang": "Latvian",
+    "phrase": "Sarkanās jūrascūciņas peld pa jūru.",
+    "translation": "Red seapigs swim in the sea.",
+    "usesAllLetters": "no",
+    "scriptTag": "latn",
+    "iso": "LVI"
+  },
+  {
+    "lang": "Norwegian (bokmål)",
+    "phrase": "En god stil må først og fremst være klar. Den må være passende. Aristoteles.",
+    "translation": "A good essay must first and foremost be clear. It must be appropriate. Aristotle.",
+    "usesAllLetters": "no",
+    "scriptTag": "latn",
+    "iso": "NOR"
+  },
+  {
+    "lang": "Polish",
+    "phrase": "Pchnąć w tę łódź jeża lub ośm skrzyń fig",
+    "translation": "Push into this boat a hedgehog or eight boxes of figs.",
+    "usesAllLetters": "yes",
+    "scriptTag": "latn",
+    "iso": "PLK"
+  },
+  {
+    "lang": "Portuguese",
+    "phrase": "A rápida raposa castanha salta por cima do cão lento.",
+    "translation": "The quick brown fox jumps over the slow dog.",
+    "usesAllLetters": "no",
+    "scriptTag": "latn",
+    "iso": "PTG"
+  },
+  {
+    "lang": "Brazilian Portuguese",
+    "phrase": "A ligeira raposa marrom ataca o cão preguiçoso.",
+    "translation": "The quick brown fox attacks the lazy dog.",
+    "usesAllLetters": "no",
+    "scriptTag": "latn",
+    "iso": "PTG"
+  },
+  {
+    "lang": "Brazilian Portuguese",
+    "phrase": "Zebras caolhas de Java querem passar fax para moças gigantes de New York",
+    "translation": "Strabic zebras from Java want to pass a fax to giant girls from New York.",
+    "usesAllLetters": "yes",
+    "scriptTag": "latn",
+    "iso": "PTG"
+  },
+  {
+    "lang": "Romanian",
+    "phrase": "Agera vulpe maronie sare peste câinele cel leneş.",
+    "translation": "The quick brown fox jumps over the lazy dog.",
+    "usesAllLetters": "no",
+    "scriptTag": "latn",
+    "iso": "ROM"
+  },
+  {
+    "lang": "Russian",
+    "phrase": "Съешь ещё этих мягких французских булок да выпей же чаю",
+    "translation": "Eat some more of these soft French buns and drink some tea [used in Windows XP]",
+    "usesAllLetters": "yes",
+    "scriptTag": "cyrl",
+    "iso": "RUS"
+  },
+  {
+    "lang": "Serbian (Cyrillic alphabet)",
+    "phrase": "Чешће цeђење мрeжастим џаком побољшава фертилизацију генских хибрида.",
+    "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids.",
+    "usesAllLetters": "yes",
+    "scriptTag": "cyrl",
+    "iso": "SRB"
+  },
+  {
+    "lang": "Serbian (Latin alphabet)",
+    "phrase": "Češće ceđenje mrežastim džakom poboljšava fertilizaciju genskih hibrida.",
+    "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids.",
+    "usesAllLetters": "yes",
+    "scriptTag": "cyrl",
+    "iso": "SRB"
+  },
+  {
+    "lang": "Slovak",
+    "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
+    "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat. (Modified sentence which contains all accents and diacritics.)",
+    "usesAllLetters": "except unaccented Y, C (as distinct from part of the digraph and separate letter CH), J, unaccented L, and the foreign letters F, G, Ó, Q, W, X",
+    "scriptTag": "latn",
+    "iso": "SKY"
+  },
+  {
+    "lang": "Slovenian",
+    "phrase": "V kožuščku hudobnega fanta stopiclja mizar in kliče 0619872345.",
+    "translation": "A cabinetmaker steps lightly through a malicious boy fur coat and calls 0619872345.",
+    "usesAllLetters": "yes",
+    "scriptTag": "latn",
+    "iso": "SLV"
+  },
+  {
+    "lang": "Spanish",
+    "phrase": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.",
+    "translation": "The quick Hindu bat was happily eating thistle and kiwi. The stork played the saxophone behind the straw palisade.",
+    "usesAllLetters": "yes",
+    "scriptTag": "latn",
+    "iso": "ESP"
+  },
+  {
+    "lang": "Swedish",
+    "phrase": "Flygande bäckasiner söka hwila på mjuka tuvor",
+    "translation": "Flying snipes soon look to rest on soft grass beds (with obsolete Swedish spelling and grammar)",
+    "usesAllLetters": "except Q, X and Z",
+    "scriptTag": "latn",
+    "iso": "SVE"
+  },
+  {
+    "lang": "Thai",
+    "phrase": "เป็นมนุษย์สุดประเสริฐเลิศคุณค่า\n\t\t\t\t\tกว่าบรรดาฝูงสัตว์เดรัจฉาน\n\t\t\t\t\tจงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร\n\t\t\t\t\tไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า\n\t\t\t\t\tหัดอภัยเหมือนกีฬาอัชฌาสัย\n\t\t\t\t\tปฏิบัติประพฤติกฎกำหนดใจ\n\t\t\t\tพูดจาให้จ๊ะ ๆ จ๋า ๆ น่าฟังเอยฯ",
+    "translation": "\n\t\t\t\t\tBeing a man is worthy\n\t\t\t\t\t\tBeyond senseless animal\n\t\t\t\t\t\tBegin educate thyself\n\t\t\t\t\t\tBegone from killing and trouble\n\t\t\t\t\t\tBear not thy grudge, damn and, curse\n\t\t\t\t\t\tBestow forgiving and sporting\n\t\t\t\t\t\tBefit with rules\n\t\t\t\t\t\tBenign speech speak thou\n\t\t\t\t\t\n\t\t\t\t",
+    "usesAllLetters": "except ฦ",
+    "scriptTag": "thai",
+    "iso": "THA"
+  },
+  {
+    "lang": "Turkish",
+    "phrase": "Pijamalı hasta, yağız şoföre çabucak güvendi",
+    "translation": "Patient with pajamas, trusted swarthy driver quickly",
+    "usesAllLetters": "Without the circumflex diacritic and the foreign characters Q, W, and X",
+    "scriptTag": "latn",
+    "iso": "TRK"
+  },
+  {
+    "lang": "Uyghur",
+    "phrase": "زۆھرەگۈل ئابدۇۋاجىت فرانسىيەنىڭ پارىژدىكى خېلى بىشەم ئوقۇغۇچى.",
+    "translation": "Those two roosters were not able to move to the mountain near Paris in France.",
+    "usesAllLetters": "yes",
+    "scriptTag": "arab",
+    "iso": "UYG"
+  },
+  {
+    "lang": "Uyghur",
+    "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
+    "translation": "Zöhregül Abduwajit is a quite unpleasant student in Paris, France.",
+    "usesAllLetters": "yes",
+    "scriptTag": "arab",
+    "iso": "UYG"
+  }
 ]
