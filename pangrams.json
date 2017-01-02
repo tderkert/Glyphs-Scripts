@@ -342,5 +342,1365 @@
     "usesAllLetters": "yes",
     "scriptTag": "arab",
     "iso": "UYG"
+  },
+  {
+    "lang": "Arabic",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "ARA",
+    "phrase": "صِف خَلقَ خَودِ كَمِثلِ الشَمسِ إِذ بَزَغَت — يَحظى الضَجيعُ بِها نَجلاءَ مِعطارِ (A poem by Al Farāhīdi)",
+    "translation": 0
+  },
+  {
+    "lang": "Arabic",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "ARA",
+    "phrase": "هلا سكنت بذي ضغثٍ فقد زعموا — شخصت تطلب ظبياً راح مجتازا",
+    "translation": 0
+  },
+  {
+    "lang": "Arabic",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "ARA",
+    "phrase": "اصبر على حفظ خضر واستشر فطنا، وزج همك في بغداذ منثملا",
+    "translation": 0
+  },
+  {
+    "lang": "Arabic",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "ARA",
+    "phrase": "نصٌّ حكيمٌ لهُ سِرٌّ قاطِعٌ وَذُو شَأنٍ عَظيمٍ مكتوبٌ على ثوبٍ أخضرَ ومُغلفٌ بجلدٍ أزرق\n naṣun ḥakymun lahu syrun qāṭiʿun wa ḏu šānin ʿẓymin maktubun ʿala ṯubin aẖḍra wa muġalafun biǧildin azraq",
+    "translation": "A wise text which has an absolute secret and great importance, written on a green cloth and covered with blue leather (it has a riddle built into it)"
+  },
+  {
+    "lang": "Arabic",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "ARA",
+    "phrase": "ابجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ",
+    "translation": 0
+  },
+  {
+    "lang": "Azeri",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "AZE",
+    "phrase": "Zəfər, jaketini də papağını da götür, bu axşam hava çox soyuq olacaq.",
+    "translation": "Zafer (male name), take your jacket and cap, it will be very cold tonight."
+  },
+  {
+    "lang": "Breton",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "BRE",
+    "phrase": "Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez.",
+    "translation": 0
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Ах чудна българска земьо, полюшвай цъфтящи жита.",
+    "translation": "Ah, wonderful Bulgarian land, shake the blooming wheat fields."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Жълтата дюля беше щастлива, че пухът, който цъфна, замръзна като гьон.",
+    "translation": "The yellow quince was happy that the fluff which bloomed froze like sole-leather."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "За миг бях в чужд плюшен скърцащ фотьойл. (Used for font samples by the Macintosh, in the localized System 7)",
+    "translation": "For a moment I was in someone else’s plush squeaking armchair."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Вкъщи не яж сьомга с фиде без ракийка и хапка люта чушчица!",
+    "translation": "At home, do not eat salmon with soup noodles without rakia and a bit of hot paprika!"
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.",
+    "translation": "Under a southern tree, blooming in blue, ran a little fluffy bunny."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Шугав льохман, държащ птицечовка без сейф и ютия.",
+    "translation": "A mangy lummox, holding a platypus without a safe and flat iron."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Я, пазачът Вальо уж бди, а скришом хапва кюфтенца зад щайгите.",
+    "translation": "Why, Valyo the guard is supposed to be watching, and yet he’s secretly eating meatballs behind the crates."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Хълцайки много, въздесъщият позьор, Юрий жабока, фучеше.",
+    "translation": "Hiccuping intensely, the famous poseur, Yuri the frog, was sputtering."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Гномът Доцьо приключи спящ в шейна за жаби.",
+    "translation": "Dotsyo the Gnome ended up sleeping in a carriage for frogs."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Щиглецът се яде само пържен в юфка без чушки и хвойна.",
+    "translation": "Goldfinch is only eaten fried with noodles, without peppers and juniper."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Фучейки и хълцайки, кьоравият грухтящ шопар жадно стъпка зюмбюлите",
+    "translation": "Snorting and whimpering, the grunting blind boar hungrily trampled the hyacinths."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Хълцащ змей плюе шофьор стигнал чуждия бивак.",
+    "translation": "A hiccuping dragon spits at a driver who has reached someone else’s campsite."
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "BGR",
+    "phrase": "Щурчо Цоньо хапваше ловджийско кюфте с бяла гъмза.",
+    "translation": "Tsonyo the cricket was eating a hunter-style meatball with white Gamza wine."
+  },
+  {
+    "lang": "Catalan",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with all letters and diacritics)",
+    "iso": "CAT",
+    "phrase": "«Dóna amor que seràs feliç!». Això, il·lús company geniüt, ja és un lluït rètol blavís d’onze kWh.",
+    "translation": "“Give love and you’ll be happy!”. This, ingenuous fellow with bad temper, is already in a blue sign of 11kWh."
+  },
+  {
+    "lang": "Catalan",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with ç)",
+    "iso": "CAT",
+    "phrase": "Jove xef, porti whisky amb quinze glaçons d’hidrogen, coi!",
+    "translation": "Young chef, bring whisky with fifteen hydrogen ice cubes, darn!"
+  },
+  {
+    "lang": "Catalan",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CAT",
+    "phrase": "Aqueix betzol, Jan, comprava whisky de figa",
+    "translation": "That idiot, Jan, was buying fig whisky"
+  },
+  {
+    "lang": "Catalan",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CAT",
+    "phrase": "Zel de grum: quetxup, whisky, cafè, bon vi; ja!",
+    "translation": 0
+  },
+  {
+    "lang": "Catalan",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CAT",
+    "phrase": "Coi! quinze jans golafres de Xàtiva, beuen whisky a pams",
+    "translation": 0
+  },
+  {
+    "lang": "Cherokee",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "ᎠᏍᎦᏯᎡᎦᎢᎾᎨᎢᎣᏍᏓᎤᎩᏍᏗᎥᎴᏓᎯᎲᎢᏔᎵᏕᎦᏟᏗᏖᎸᎳᏗᏗᎧᎵᎢᏘᎴᎩ ᏙᏱᏗᏜᏫᏗᏣᏚᎦᏫᏛᏄᏓᎦᏝᏃᎠᎾᏗᎭᏞᎦᎯᎦᏘᏓᏠᎨᏏᏕᏡᎬᏢᏓᏥᏩᏝᎡᎢᎪᎢ ᎠᎦᏂᏗᎮᎢᎫᎩᎬᏩᎴᎢᎠᏆᏅᏛᎫᏊᎾᎥᎠᏁᏙᎲᏐᏈᎵᎤᎩᎸᏓᏭᎷᏤᎢᏏᏉᏯᏌᏊ ᎤᏂᏋᎢᏡᎬᎢᎰᏩᎬᏤᎵᏍᏗᏱᎩᎱᎱᎤᎩᎴᎢᏦᎢᎠᏂᏧᏣᏨᎦᏥᎪᎥᏌᏊᎤᎶᏒᎢᎢᏡᎬᎢ ᎹᎦᎺᎵᏥᎻᎼᏏᎽᏗᏩᏂᎦᏘᎾᎿᎠᏁᎬᎢᏅᎩᎾᏂᎡᎢᏌᎶᎵᏎᎷᎠᏑᏍᏗᏪᎩ ᎠᎴ ᏬᏗᏲᏭᎾᏓᏍᏓᏴᏁᎢᎤᎦᏅᏮᏰᎵᏳᏂᎨᎢ.",
+    "translation": 0
+  },
+  {
+    "lang": "Croatian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "HRV",
+    "phrase": "Gojazni đačić s biciklom drži hmelj i finu vatu u džepu nošnje. (Used by Microsoft Office as sample text for Croatian language.)",
+    "translation": "The overweight little schoolboy with a bike is holding hops and fine cotton in the pocket of his attire."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CSY",
+    "phrase": "Nechť již hříšné saxofony ďáblů rozezvučí síň úděsnými tóny waltzu, tanga a quickstepu. (All 42 letters of the Czech alphabet, 72 letters in total)",
+    "translation": "Let the sinful saxophones of devils finally make the hall resonate with the frightful tones of waltz, tango and quickstep."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CSY",
+    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy. (All the non-ASCII letters of the Czech alphabet – popular sentence for character sets testing)",
+    "translation": "Unduly yellowish horse was groaning devilish odes."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CSY",
+    "phrase": "Hleď, toť přízračný kůň v mátožné póze šíleně úpí.",
+    "translation": "Behold, tis the eerie horse in tottering affectation groaning like crazy."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CSY",
+    "phrase": "Zvlášť zákeřný učeň s ďolíčky běží podél zóny úlů.",
+    "translation": "Particularly insidious apprentice with dimples is running along the zone of hives."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CSY",
+    "phrase": "Loď čeří kýlem tůň obzvlášť v Grónské úžině.",
+    "translation": "A vessel ripples a pool by its keel, especially in the strait of Greenland."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "CSY",
+    "phrase": "Ó, náhlý déšť již zvířil prach a čilá laň teď běží s houfcem gazel k úkrytům.",
+    "translation": "Oh, sudden rain has already whirled the dust and a spry doe now gallops with a flock of gazelles for the shelter."
+  },
+  {
+    "lang": "Danish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(Each letter exactly once)",
+    "iso": "DAN",
+    "phrase": "Høj bly gom vandt fræk sexquiz på wc",
+    "translation": "Tall shy groom won dirty sex quiz on W.C."
+  },
+  {
+    "lang": "Danish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "DAN",
+    "phrase": "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.",
+    "translation": "The quiz contestants ate strawberry with cream while Walter the circus clown played the xylophone."
+  },
+  {
+    "lang": "Dzongkha",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "ཨ་ཡིག་དཀར་མཛེས་ལས་འཁྲུངས་ཤེས་བློའི་གཏེར༎ ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན༎ ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་དབྱངསམཐུས༎ མཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་འགྱུར་ཅིག།",
+    "translation": 0
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "NTO",
+    "phrase": "Eble ĉiu kvazaŭ-deca fuŝĥoraĵo ĝojigos homtipon.",
+    "translation": "Maybe every quasi-fitting bungle-choir makes a human type happy."
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "NTO",
+    "phrase": "Laŭ Ludoviko Zamenhof bongustas freŝa ĉeĥa manĝaĵo kun spicoj.",
+    "translation": "According to Ludwig Zamenhof, fresh Czech food with spices tastes good."
+  },
+  {
+    "lang": "Estonian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ETI",
+    "phrase": "Põdur Zagrebi tšellomängija-följetonist Ciqo külmetas kehvas garaažis",
+    "translation": "Ill-healthy cellist-feuilletonist Ciqo from Zagreb was being cold in a poor garage. (used in KDE font selection)."
+  },
+  {
+    "lang": "Estonian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ETI",
+    "phrase": "See väike mölder jõuab rongile hüpata",
+    "translation": "This small miller is able to jump to train (used in localized version of Microsoft Word in Office XP, contains all non-foreign letters)"
+  },
+  {
+    "lang": "Estonian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ETI",
+    "phrase": "Jubedalt möirgav lõukoer hüppas tänaval",
+    "translation": "Terribly roaring lion jumped on street"
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(A perfect pangram which does not include characters only found in foreign or loanwords (b, c, f, q, w, x, z, å))",
+    "iso": "FIN",
+    "phrase": "Törkylempijävongahdus",
+    "translation": "Muckysnogger booty-call."
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(Without the foreign characters c, q, x, z, w, å)",
+    "iso": "FIN",
+    "phrase": "Albert osti fagotin ja töräytti puhkuvan melodian.",
+    "translation": "Albert bought a bassoon and blasted a puffing melody. (used in older versions of Word Perfect)."
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(Without the foreign characters b, c, f, q, w, x, z, å)",
+    "iso": "FIN",
+    "phrase": "Lorun sangen pieneksi hyödyksi jäivät suomen kirjaimet.",
+    "translation": "The quite small benefit of the rhyme was the letters of Finnish."
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FIN",
+    "phrase": "Hyvän lorun sangen pieneksi hyödyksi jäi suomen kirjaimet.",
+    "translation": "Modification of the previous one where the first letter is repeated (in the case the capital first letter is used but all the small letters are needed): The quite small benefit of the good rhyme was the letters of Finnish."
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(All characters, including foreign ones)",
+    "iso": "FIN",
+    "phrase": "Fahrenheit ja Celsius yrjösivät Åsan backgammon-peliin, Volkswagenissa, daiquirin ja ZX81:n yhteisvaikutuksesta.",
+    "translation": "Fahrenheit and Celsius threw up on Åsa’s Backgammon board, in a Volkswagen, due to the coeffect of daiquiri and a ZX81."
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(All characters, including foreign ones)",
+    "iso": "FIN",
+    "phrase": "Charles Darwin jammaili Åken hevixylofonilla Qatarin yöpub Zeligissä.",
+    "translation": "Charles Darwin was jamming on Åke’s heavy metal xylophone in the Qatar night pub Zelig."
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(All characters, including foreign ones)",
+    "iso": "FIN",
+    "phrase": "Wieniläinen sioux’ta puhuva ökyzombie diggaa Åsan roquefort-tacoja.",
+    "translation": "The Sioux-speaking filthy rich zombie from Vienna digs Åsa’s Roquefort tacos."
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRA",
+    "phrase": "Buvez de ce whisky que le patron juge fameux. (36)",
+    "translation": "Drink some of this whisky which the boss finds excellent."
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRA",
+    "phrase": "Portez ce vieux whisky au juge blond qui fume",
+    "translation": "Take this old whisky to the blond smoking judge"
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": "(variant with “é”)",
+    "iso": "FRA",
+    "phrase": "Portez ce vieux whisky au juge blond qui a fumé.",
+    "translation": "Take this old whisky to the blond judge who has smoked."
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRA",
+    "phrase": "Bâchez la queue du wagon-taxi avec les pyjamas du fakir",
+    "translation": "Tarpaulin up the taxi-railcar tail with the fakir’s pajamas"
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRA",
+    "phrase": "Voyez le brick géant que j’examine près du wharf",
+    "translation": "See the giant brig which I examine near the wharf"
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRA",
+    "phrase": "Voix ambiguë d’un cœur qui au zéphyr préfère les jattes de kiwi",
+    "translation": "Ambiguous voice of a heart which prefers kiwi bowls to a zephyr"
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRA",
+    "phrase": "Monsieur Jack, vous dactylographiez bien mieux que votre ami Wolf",
+    "translation": "Mister Jack, you typed much better than your friend Wolf [was used in the Swiss army to check the keyboard of typewriters before teletransmission]"
+  },
+  {
+    "lang": "West Frisian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "FRI",
+    "phrase": "Alve bazige froulju wachtsje op dyn komst",
+    "translation": "Eleven bossy women await your arrival"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "(no umlauts or ß)",
+    "iso": "GER",
+    "phrase": "Sylvia wagt quick den Jux bei Pforzheim",
+    "translation": "Sylvia dares quickly the joke near Pforzheim"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "(no umlauts or ß)",
+    "iso": "GER",
+    "phrase": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern",
+    "translation": "Franz chases in the completely shabby cab straight through Bavaria"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with umlauts and ß)",
+    "iso": "GER",
+    "phrase": "Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich",
+    "translation": "Victor chases twelve boxers across the great dam of Sylt"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with umlauts and ß, each letter exactly once, according to the pre-1996 spelling rules)",
+    "iso": "GER",
+    "phrase": "“Fix, Schwyz!” quäkt Jürgen blöd vom Paß",
+    "translation": "“Quick, Schwyz!” Jürgen squawks zanily from the pass"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "(used by KDE)",
+    "iso": "GER",
+    "phrase": "“Falsches Üben von Xylophonmusik quält jeden größeren Zwerg”",
+    "translation": "Wrong practising of xylophone music bothers every larger dwarf"
+  },
+  {
+    "lang": "Greek",
+    "scriptTag": "grek",
+    "usesAllLetters": 0,
+    "iso": "ELL",
+    "phrase": "Ταχίστη αλώπηξ βαφής ψημένη γη, δρασκελίζει υπέρ νωθρού κυνός\n                Takhístè alôpèx vaphês psèménè gè, draskelízei ypér nòthroý kynós",
+    "translation": "The quick brown fox jumps over the lazy dog (where brown is assigned by “colour of roasted earth”)"
+  },
+  {
+    "lang": "Greek",
+    "scriptTag": "grek",
+    "usesAllLetters": 0,
+    "iso": "ELL",
+    "phrase": "Ξεσκεπάζω τὴν ψυχοφθόρα βδελυγμία.\n                Xeskepazó tin psychofthóra vdelygmía.",
+    "translation": "I uncover the soul-destroying abhorrence."
+  },
+  {
+    "lang": "Greek",
+    "scriptTag": "grek",
+    "usesAllLetters": 0,
+    "iso": "ELL",
+    "phrase": "Ζαφείρι δέξου πάγκαλο, βαθῶν ψυχῆς τὸ σῆμα.",
+    "translation": "Receive an excellent sapphire, denoting profundity of soul."
+  },
+  {
+    "lang": "Greek",
+    "scriptTag": "grek",
+    "usesAllLetters": 0,
+    "iso": "ELL",
+    "phrase": "διαφυλάξτε γενικά τη ζωή σας από βαθειά ψυχικά τραύματα",
+    "translation": "protect in general your life from deep psychological wounds"
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": 0,
+    "iso": "IWR",
+    "phrase": "דג סקרן שט בים מאוכזב ולפתע מצא חברה\n                dg sqrn šṭ bjM mʾwkzb wlptʿ mṣʾ ḥbrh",
+    "translation": "A curious fish sailed the sea disappointedly, and suddenly found company"
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": "Includes all medial and final forms, here indicated by bold letters.",
+    "iso": "IWR",
+    "phrase": "כך התרסק נפץ על גוזל קטן, שדחף את צבי למים\n                kk htrsq npṣ ʿl gwzl qṭn, šdḥp ʾt ṣbj lmjm",
+    "translation": "An explosive crashed into a small chick, which pushed my deer into the water. "
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": "Each letter occurs exactly once.",
+    "iso": "IWR",
+    "phrase": "שפן אכל קצת גזר בטעם חסה, ודי.\n                špn ʾkl qṣt gzr bṭʿm ḥsh, wdj",
+    "translation": "(A hyrax ate some lettuce flavored carrot and that’s it)"
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": "All 22 in the Hebrew alphabet with all medial and final forms",
+    "iso": "IWR",
+    "phrase": "עטלף אבק נס דרך מזגן שהתפוצץ כי חם",
+    "translation": "(A “dust bat” escaped through the air conditioner, which exploded due to the heat)"
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": 0,
+    "iso": "IWR",
+    "phrase": "או הנסה אלהים, לבוא לקחת לו גוי מקרב גוי, במסת באתת ובמופתים ובמלחמה וביד חזקה ובזרוע נטויה, ובמוראים גדלים: ככל אשר-עשה לכם יהוה אלהיכם, במצרים—לעיניך (Deuteronomy 4:34)",
+    "translation": 0
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": 0,
+    "iso": "IWR",
+    "phrase": "לכן חכו לי נאם יהוה ליום קומי לעד, כי משפטי לאסף גוים לקבצי ממלכות, לשפך עליהם זעמי כל חרון אפי, כי באש קנאתי תאכל כל הארץ (Zephaniah 3:8 – the only verse in the Hebrew Bible that contains all medial forms of the letters plus all final forms)",
+    "translation": 0
+  },
+  {
+    "lang": "Hindi",
+    "scriptTag": "dev2",
+    "usesAllLetters": 0,
+    "iso": "HIN",
+    "phrase": "ऋषियों को सताने वाले दुष्ट राक्षसों के राजा रावण का सर्वनाश करने वाले विष्णुवतार भगवान श्रीराम, अयोध्या के महाराज दशरथ के बड़े सपुत्र थे।",
+    "translation": 0
+  },
+  {
+    "lang": "Hungarian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "HUN",
+    "phrase": "Jó foxim és don Quijote húszwattos lámpánál ülve egy pár bűvös cipőt készít.",
+    "translation": "My good foxterrier and don Quixote are making a pair of magic shoes by a 20-watt lamp."
+  },
+  {
+    "lang": "Hungarian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "HUN",
+    "phrase": "Árvíztűrő tükörfúrógép",
+    "translation": "A flood-resistant mirror drill"
+  },
+  {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ISL",
+    "phrase": "Kæmi ný öxi hér, ykist þjófum nú bæði víl og ádrepa.",
+    "translation": "If a new axe were here, thieves would feel increasing deterrence and punishment."
+  },
+  {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": "(each letter exactly once)",
+    "iso": "ISL",
+    "phrase": "Svo hölt, yxna kýr þegði jú um dóp í fé á bæ.",
+    "translation": "A cow in heat with such a limp would admittedly keep silent about drugs in sheep on a farm."
+  },
+  {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": "(each letter exactly once, with z (obsolete spelling))",
+    "iso": "ISL",
+    "phrase": "Þú dazt á hnéð í vök og yfir blóm sexý pæju.",
+    "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower."
+  },
+  {
+    "lang": "Igbo",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Nne, nna, wepụ he’l’ụjọ dum n’ime ọzụzụ ụmụ, vufesi obi nye Chukwu, ṅụrịanụ, gbakọọnụ kpaa, kwee ya ka o guzoshie ike; ọ ghaghị ito, nwapụta ezi agwa. (all 36 letters and diacritics).",
+    "translation": 0
+  },
+  {
+    "lang": "Indonesian",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Muharjo seorang xenofobia universal yang takut pada warga jazirah, contohnya Qatar.",
+    "translation": "Muharjo is a universal xenophobic who fears the peninsula residents, such as Qatar."
+  },
+  {
+    "lang": "Indonesian",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Saya lihat foto Hamengkubuwono XV bersama enam zebra purba cantik yang jatuh dari Alquranmu.",
+    "translation": "I saw a photo of Hamengkubuwono XV along with six beautiful ancient zebra which fell from your Koran."
+  },
+  {
+    "lang": "Indonesian",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Hafiz mengendarai bajaj payah-payah ke warnet-x untuk mencetak lembar verifikasi dalam kertas quarto.",
+    "translation": 0
+  },
+  {
+    "lang": "Irish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "IRI",
+    "phrase": "D’fhuascail Íosa Úrmhac na hÓighe Beannaithe pór Éava agus Ádhaimh",
+    "translation": 0
+  },
+  {
+    "lang": "Irish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "IRI",
+    "phrase": "D’ḟuascail Íosa Úrṁac na hÓiġe Beannaiṫe pór Éaḃa agus Áḋaiṁ",
+    "translation": "Jesus, Son of the blessed Virgin, redeemed the seed of Eve and Adam."
+  },
+  {
+    "lang": "Irish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "IRI",
+    "phrase": "Ċuaiġ bé ṁórṡáċ le dlúṫspád fíorḟinn trí hata mo ḋea-ṗorcáin ḃig",
+    "translation": "A greatly satisfied woman went with a truly white dense spade through the hat of my good little well-fattened pig (uses both regular and lenited (with dot above) letters)"
+  },
+  {
+    "lang": "Javanese",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "꧋ ꦲꦤꦕꦫꦏ꧈ ꦢꦠꦱꦮꦭ꧈ ꦥꦝꦗꦪꦚ꧈ ꦩꦒꦧꦛꦔ꧉\n                Hanacaraka, datasawala, padhajayanya, magabathanga.",
+    "translation": "There (were) two messengers; (they) had animosity (among each other); (they were) equally powerful (in fight); here are the corpses.\n                        \n                            This poem is used as the ordering of the Javanese script.\n                            This poem is a perfect pangram, which means there is only one instance of each letter.\n                        \n                    "
+  },
+  {
+    "lang": "Klingon",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "    \n                qajunpaQHeylIjmo’ batlh DuSuvqang charghwI’ ‘It.",
+    "translation": "Because of your apparent audacity the depressed conqueror is willing to fight you."
+  },
+  {
+    "lang": "Korean",
+    "scriptTag": "hang",
+    "usesAllLetters": 0,
+    "iso": "KOR",
+    "phrase": "키스의 고유조건은 입술끼리 만나야 하고 특별한 기술은 필요치 않다.\n                Kiseu-ui goyujogeoneun ipsulkkiri mannaya hago teukbyeolhan gisureun pilyochi antha.",
+    "translation": "The essential condition for a kiss is that lips meet and there is no special technique required.\n                        \n                            In current usage, Hangul has 14 simple consonant letters, 6 simple vowel letters, and 4 iotized vowel letters; there are also 5 double consonant letters, 11 consonant clusters, and 11 diphthongs, made from combinations of the simple consonants or simple vowels. Of these, the above phrase contains all the simple consonant letters, simple vowel letters, and iotized vowel letters, along with 1 double consonant letter (ㄲ “gg”), 1 consonant cluster (ㄶ “nh”), and one diphthong (ㅢ “ui”).\n                        \n                    "
+  },
+  {
+    "lang": "Latin",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "LAT",
+    "phrase": "Sic fugiens, dux, zelotypos, quam Karus haberis.[5]",
+    "translation": "Thus fleeing, O leader, you are regarded with jealousy like Karus.\n                    Includes the letters k, y and z, used for words derived from Greek, but not the letters j, v or w, consonants that evolved from the vowels i and u."
+  },
+  {
+    "lang": "Latvian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "LVI",
+    "phrase": "Muļķa hipiji mēģina brīvi nogaršot celofāna žņaudzējčūsku.",
+    "translation": "Silly hippies try to freely taste the cellophane python."
+  },
+  {
+    "lang": "Lithuanian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "LTH",
+    "phrase": "Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą",
+    "translation": "Incurving fencer sword sparkled and perforated a round watermelon"
+  },
+  {
+    "lang": "Lojban",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": ".o’i mu xagji sofybakni cu zvati le purdi",
+    "translation": "Watch out, five hungry Soviet-cows are in the garden!"
+  },
+  {
+    "lang": "Macedonian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "MKD",
+    "phrase": "Ѕидарски пејзаж: шугав билмез со чудење џвака ќофте и кељ на туѓ цех.",
+    "translation": "A mason’s landscape: a mangy fool wonderingly munches on meatball and kale at someone else’s expense."
+  },
+  {
+    "lang": "Malayalam",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "MLY",
+    "phrase": "അജവും ആനയും ഐരാവതവും ഗരുഡനും കഠോര സ്വരം പൊഴിക്കെ ഹാരവും ഒഢ്യാണവും ഫാലത്തില്‍ മഞ്ഞളും ഈറന്‍ കേശത്തില്‍ ഔഷധ എണ്ണയുമായി ഋതുമതിയും അനഘയും ഭൂനാഥയുമായ ഉമ ദുഃഖഛവിയോടെ ഇടതു പാദം ഏന്തി ങ്യേയാദൃശം നിര്‍ഝരിയിലെ ചിറ്റലകളെ ഓമനിക്കുമ്പോള്‍ ബാ‍ലയുടെ കണ്‍കളില്‍ നീര്‍ ഊര്‍ന്നു വിങ്ങി.",
+    "translation": 0
+  },
+  {
+    "lang": "Mongolian",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Щётканы фермд пийшин цувъя. Бөгж зогсч хэльюү.",
+    "translation": "Let’s echelon fireplaces in brush farm. Ring says standing."
+  },
+  {
+    "lang": "Myanmar",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ္ဎနဆေးညွှန်းစာကို ဇလွန်ဈေးဘေးဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက် ဂဃနဏဖတ်ခဲ့သည်။",
+    "translation": "The genius from Sri Lanka read the formula of elixir of life thoroughly in the almond tree next to Zalun market."
+  },
+  {
+    "lang": "Portuguese (Brazilian)",
+    "scriptTag": "latn",
+    "usesAllLetters": "without diacritics",
+    "iso": "PTG",
+    "phrase": "Um pequeno jabuti xereta viu dez cegonhas felizes.",
+    "translation": "A curious little tortoise saw ten happy storks."
+  },
+  {
+    "lang": "Portuguese (Brazilian)",
+    "scriptTag": "latn",
+    "usesAllLetters": "without diacritics",
+    "iso": "PTG",
+    "phrase": "Blitz prende ex-vesgo com cheque fajuto.",
+    "translation": "Cop arrests ex-cross-eye with fake check in a checkpoint."
+  },
+  {
+    "lang": "Portuguese (Brazilian)",
+    "scriptTag": "latn",
+    "usesAllLetters": "without diacritics",
+    "iso": "PTG",
+    "phrase": "Gazeta publica hoje no jornal uma breve nota de faxina na quermesse. ",
+    "translation": "The journalists publish today at the newspaper a short note about the cleaning at the kirmiss."
+  },
+  {
+    "lang": "Portuguese (Brazilian)",
+    "scriptTag": "latn",
+    "usesAllLetters": "without diacritics",
+    "iso": "PTG",
+    "phrase": "Zebras caolhas de Java querem passar fax para moças gigantes de New York. ",
+    "translation": "One-eyed zebras from Java want to fax for giant ladies from New York."
+  },
+  {
+    "lang": "Portuguese",
+    "scriptTag": "latn",
+    "usesAllLetters": "with diacritics",
+    "iso": "PTG",
+    "phrase": "Luís argüia à Júlia que «brações, fé, chá, óxido, pôr, zângão» eram palavras do português.",
+    "translation": "Luís argued to Júlia that “big arms, faith, tea, oxide, to put, bee” were Portuguese words."
+  },
+  {
+    "lang": "Romanian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ROM",
+    "phrase": "Muzicologă în bej vând whisky și tequila, preț fix.",
+    "translation": "(Female) musicologist in beige, sells whisky and tequila, fixed price."
+  },
+  {
+    "lang": "Romanian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ROM",
+    "phrase": "Bând whisky, jazologul șprițuit vomă fix în tequila.",
+    "translation": "Drinking whisky, the drunken jazzman threw up right in the tequila."
+  },
+  {
+    "lang": "Romanian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ROM",
+    "phrase": "Ex-sportivul își fumează jucăuș țigara bând whisky cu tequila.",
+    "translation": "The ex-sportsman playfully smokes his cigarette, drinking whisky with tequila."
+  },
+  {
+    "lang": "Romanian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ROM",
+    "phrase": "Înjurând pițigăiat, zoofobul comandă vexat whisky și tequila.",
+    "translation": "Swearing in high pitch, the zoophobic man vexedly ordered whisky and tequila."
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(traditional telegraph test; lacks ъ and ё)",
+    "iso": "RUS",
+    "phrase": "В чащах юга жил бы цитрус? Да, но фальшивый экземпляр!",
+    "translation": "Would a citrus live in the thickets of the south? Yes, but only a fake one!"
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(using quasiobsolete spelling for last word to include ъ)",
+    "iso": "RUS",
+    "phrase": "В чащах юга жил бы цитрус? Да, но фальшивый экземпляръ!",
+    "translation": "same"
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(each letter exactly once)",
+    "iso": "RUS",
+    "phrase": "Эх, чужак, общий съём цен шляп (юфть) – вдрызг!",
+    "translation": "Hey, stranger, the general takings from prices of hats (made from a thick leather) have completely crashed!"
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(each letter exactly once)",
+    "iso": "RUS",
+    "phrase": "Любя, съешь щипцы, — вздохнёт мэр, — Кайф жгуч!",
+    "translation": "The mayor will sigh, “Eat the pliers with love; pleasure burns!”"
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(Microsoft used it in fontview.exe for Cyrillic fonts without «же»)",
+    "iso": "RUS",
+    "phrase": "Съешь же ещё этих мягких французских булок, да выпей чаю. S’eš’ že eŝë ètih mjagkih francuzskih bulok, da vypej čaju.",
+    "translation": "So eat more of these soft French loaves, and have some tea!"
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(used in KDE)",
+    "iso": "RUS",
+    "phrase": "Широкая электрификация южных губерний даст мощный толчок подъёму сельского хозяйства.",
+    "translation": "Widespread electrification of southern guberniyas will give a powerful incentive to the rise of agriculture."
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": 0,
+    "iso": "RUS",
+    "phrase": "Разъяренный чтец эгоистично бьёт пятью жердями шустрого фехтовальщика.",
+    "translation": "An enraged narrator selfishly beats a nimble fencer with five poles."
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "(lacks ъ and ё)",
+    "iso": "RUS",
+    "phrase": "Наш банк вчера же выплатил Ф.Я. Эйхгольду комиссию за ценные вещи.",
+    "translation": "As of yesterday, our bank already remitted to F.J. Eichhold a commission payment for the valuables."
+  },
+  {
+    "lang": "Scottish Gaelic",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Mus d’fhàg Cèit-Ùna ròp Ì le ob.",
+    "translation": "Before Kate-Una left the Iona cattle auction with hops."
+  },
+  {
+    "lang": "Slovak",
+    "scriptTag": "latn",
+    "usesAllLetters": "(contains only all accented letters except š)",
+    "iso": "SKY",
+    "phrase": "Kŕdeľ ďatľov učí koňa žrať kôru.",
+    "translation": "A flock of woodpeckers teach a horse to feed on bark."
+  },
+  {
+    "lang": "Slovak",
+    "scriptTag": "latn",
+    "usesAllLetters": "(This is a modified sentence that not only contains modified letters with diacritics but also those without)",
+    "iso": "SKY",
+    "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
+    "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat"
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "SLV",
+    "phrase": "Hišničin bratec vzgaja polže pod fikusom.",
+    "translation": "The little brother of the [female] concierge cultivates snails under the ficus."
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "SLV",
+    "phrase": "Besni dirkač iz formule žuga cehu poštarjev.",
+    "translation": "Out of the racing car, the furious racer threatens [with the waving of his index finger] a guild of postmen."
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "SLV",
+    "phrase": "Fučka se mi hladna goveja žolca brez pršuta.",
+    "translation": "I don’t care [pretty offensive construction] for the cold bovine aspic without smoked ham (prosciutto)."
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "SLV",
+    "phrase": "Šerif bo za vajo spet kuhal domače žgance.",
+    "translation": "For an exercise, sheriff will again make home-made mush (žganci)."
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "SLV",
+    "phrase": "Piškur molče grabi fižol z dna cezijeve hoste.",
+    "translation": "Lambry silently grasps beans from the bottom of caesium forest."
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": "(Used by Microsoft Word 2002 as sample text for Slovene language.)",
+    "iso": "SLV",
+    "phrase": "V kožuščku hudobnega fanta stopiclja mizar.",
+    "translation": "A cabinetmaker steps lightly through a malicious boy’s fur coat."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with all letters and diacritics, single sentence)",
+    "iso": "ESP",
+    "phrase": "Benjamín pidió una bebida de kiwi y fresa; Noé, sin vergüenza, la más exquisita champaña del menú.",
+    "translation": "Benjamin ordered a kiwi and strawberry beverage; Noah, without shame, the most exquisite champagne on the menu."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with all letters and diacritics, two sentences)",
+    "iso": "ESP",
+    "phrase": "José compró una vieja zampoña en Perú. Excusándose, Sofía tiró su whisky al desagüe de la banqueta.",
+    "translation": "José bought an old panpipe in Peru. Excusing herself, Sofía threw her whiskey on the sink of the sidewalk."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with all letters and diacritics, two sentences)",
+    "iso": "ESP",
+    "phrase": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja. (Used in Windows as sample text)",
+    "translation": "The quick Hindu bat was happily eating golden thistle and kiwi. The stork was playing the saxophone behind the straw arena."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(with ch, ñ, rr and ll)",
+    "iso": "ESP",
+    "phrase": "El pingüino Wenceslao hizo kilómetros bajo exhaustiva lluvia y frío; añoraba a su querido cachorro.",
+    "translation": "Wenceslao the penguin traveled kilometers under exhaustive rain and cold; he longed for his dear puppy."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ESP",
+    "phrase": "La niña, viéndose atrapada en el áspero baúl índigo y sintiendo asfixia, lloró de vergüenza; mientras que la frustrada madre llamaba a su hija diciendo: “¿Dónde estás Waleska?”.",
+    "translation": "The girl, finding herself trapped inside the rough blue-violet chest and feeling suffocation, cried out of shame; whilst the frustrated mother called her daughter saying: “Where are you Waleska?”."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ESP",
+    "phrase": "Jovencillo emponzoñado de whisky: ¡qué figurota exhibe!",
+    "translation": "Whisky-intoxicated youngster – what a figure he’s showing!"
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ESP",
+    "phrase": "Ese libro explica en su epígrafe las hazañas y aventuras de Don Quijote de la Mancha en Kuwait.",
+    "translation": "That book explains in its epigraph the deeds and adventures of Don Quijote de la Mancha in Kuwait."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ESP",
+    "phrase": "Queda gazpacho, fibra, látex, jamón, kiwi y viñas.",
+    "translation": "There are still gazpacho, fibre, latex, ham, kiwi and vineyards."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ESP",
+    "phrase": "Whisky bueno: ¡excitad mi frágil pequeña vejez!",
+    "translation": "Good whisky, excite my frail, little old age!"
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "ESP",
+    "phrase": "Es extraño mojar queso en la cerveza o probar whisky de garrafa.",
+    "translation": "It is strange to dip cheese in beer or to try a whisky out of a carafe."
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(lacks q, x and z, old spelling ‘hw’)",
+    "iso": "SVE",
+    "phrase": "Flygande bäckasiner söka hwila på mjuka tuvor.",
+    "translation": "Flying snipes seek rest on soft tufts [of grass]."
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(each letter exactly once)",
+    "iso": "SVE",
+    "phrase": "Yxskaftbud, ge vår WC-zonmö IQ-hjälp.",
+    "translation": "Axe handle courier, give our WC zone maiden IQ help."
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(each letter once, old spelling ‘qv’, lacks foreign letter ‘w’)",
+    "iso": "SVE",
+    "phrase": "Gud hjälpe Zorns mö qvickt få byxa.",
+    "translation": "God help Zorn’s maiden get trousers quickly."
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(lacks q and z, extra f to include common ligatures fö and fj)",
+    "iso": "SVE",
+    "phrase": "Byxfjärmat föl gick på duvshowen.",
+    "translation": "Trouser-estranged foal went to the pigeon show"
+  },
+  {
+    "lang": "Thai",
+    "scriptTag": "thai",
+    "usesAllLetters": 0,
+    "iso": "THA",
+    "phrase": "เป็นมนุษย์สุดประเสริฐเลิศคุณค่า กว่าบรรดาฝูงสัตว์เดรัจฉาน จงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ\n                bpenM maH nootH sootL bpraL saehR ritH leertF khoonM khaaF gwaapL raawnM daaM fuungR satL daehM ratH chaanR johngM faaL fanM phatH naaM wiH chaaM gaanM aL yaaF laangH phlaanR reuuM khenL khaaF beeM thaaM khraiM maiF theuuR tho:htF gro:htL chaaengF satH heutH hatH daaL hatL aL phaiM meuuanR geeM laaM atL chaaM saiR bpaL dtiL batL bpraL phriH dtikL daL gamM nohtL jaiM phuutF jaaM haiF jaH jaH jaaR jaaR naaF fangM eeuyM[7]",
+    "translation": "Humans are most superb and worth more than any animal or beast. Do develop your academic expertise. Do not destroy or kill anyone. Do not be angry or execrate anyone. Practice forgiveness as you would good sportsmanship. Do behave under morals and rules. Speak and confer politely and with servility. (These phrases owned by The Computer Association of Thailand under the Royal Patronage of His Majesty the King)"
+  },
+  {
+    "lang": "Thai",
+    "scriptTag": "thai",
+    "usesAllLetters": 0,
+    "iso": "THA",
+    "phrase": "นายสังฆภัณฑ์ เฮงพิทักษ์ฝั่ง ผู้เฒ่าซึ่งมีอาชีพเป็นฅนขายฃวด ถูกตำรวจปฏิบัติการจับฟ้องศาล ฐานลักนาฬิกาคุณหญิงฉัตรชฎา ฌานสมาธิ",
+    "translation": "Mr.Sangkapan Hengpitakfang, an elderly man who sells bottles, was sued by police because he pilfered Lady Chatchada Chansamati’s watch."
+  },
+  {
+    "lang": "Tibetan",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "༈ དཀར་མཛེས་ཨ་ཡིག་ལས་འཁྲུངས་ཡེ་ཤེས་གཏེར། །ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན། །ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་བྱངས་མཐུས། །མ་ཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་གྱུར་ཅིག།",
+    "translation": 0
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(38 letters, most common)",
+    "iso": "TRK",
+    "phrase": "Pijamalı hasta yağız şoföre çabucak güvendi.",
+    "translation": "The patient in pajamas quickly trusted the swarthy driver."
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(33 letters)",
+    "iso": "TRK",
+    "phrase": "Saf ve haydut kız çocuğu bin plaj görmüş.",
+    "translation": "The naive and thuggish little girl has seen a thousand beaches."
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(37 letters)",
+    "iso": "TRK",
+    "phrase": "Öküz ajan hapse düştü yavrum, ocağı felç gibi.",
+    "translation": "The ox agent landed in prison, my little one, where the furnace is like paralysis."
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(37 letters)",
+    "iso": "TRK",
+    "phrase": "Hayvancağız tüfekçide bagaj törpüsü olmuş.",
+    "translation": "The poor animal has become a baggage file at the gunsmith’s."
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(37 letters)",
+    "iso": "TRK",
+    "phrase": "Vakfın çoğu bu huysuz genci plajda görmüştü.",
+    "translation": "Most of the religious endowment had seen the mean youth on the beach."
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "(38 letters)",
+    "iso": "TRK",
+    "phrase": "Fahiş bluz güvencesi yağdırma projesi çöktü.",
+    "translation": "The project of making fancy shirt guarantees rain collapsed."
+  },
+  {
+    "lang": "Ukrainian",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Чуєш їх, доцю, га? Кумедна ж ти, прощайся без ґольфів!",
+    "translation": "Daughter, do you hear them, eh? Oh, you are funny! Say good-bye without knee-length socks."
+  },
+  {
+    "lang": "Ukrainian",
+    "scriptTag": 0,
+    "usesAllLetters": "(with apostrophe sign)",
+    "iso": 0,
+    "phrase": "Жебракують філософи при ґанку церкви в Гадячі, ще й шатро їхнє п’яне знаємо.",
+    "translation": "The philosophers beg near the porch of the church in Hadiach, and we even know their drunk tent."
+  },
+  {
+    "lang": "Uyghur",
+    "scriptTag": "arab",
+    "usesAllLetters": 0,
+    "iso": "UYG",
+    "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
+    "translation": 0
+  },
+  {
+    "lang": "Yoruba",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Ìwò̩fà ń yò̩ séji tó gbojúmó̩, ó hàn pákànpò̩ gan-an nis̩é̩ rè̩ bó dò̩la. (all 25 letters with diacritics).",
+    "translation": 0
+  },
+  {
+    "lang": "Welsh",
+    "scriptTag": "latn",
+    "usesAllLetters": 0,
+    "iso": "WEL",
+    "phrase": "Parciais fy jac codi baw hud llawn dŵr ger tŷ Mabon.",
+    "translation": "I parked my magic JCB [digger] full of water near Mabon’s house."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy",
+    "translation": "A horse which was too yellow moaned devilish odes"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Příšerně žluťoučký kůň úpěl ďábelské ódy",
+    "translation": "Terribly yellow horse groaned devilish odes"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Hleď, toť přízračný kůň v mátožné póze šíleně úpí",
+    "translation": "Lo! ‘Tis a ghostlike horse in a feable pose groaning maddeningly"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Zvlášť zákeřný učeň s ďolíčky běží podél zóny úlů",
+    "translation": "An exceptionally insidious pupil with dimples runs along the beehive zone"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Loď čeří kýlem tůň obzvlášť v Grónské úžině",
+    "translation": "A ship is churning up water by the keel especially in the Strait of Greenland"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Ój, náhlý déšť teď zvířil prach a čilá laň běží s houfcem gazel k úkrytům.",
+    "translation": "Oh, sudden rain has whirled dust now and a lively hind with a herd of gazelles is running to the shelters – only “foreign” letters q, w and x absents."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Červený střízlíček a špinavá žlůva ďobali šťavnaté ocúny.",
+    "translation": "Small red wren and a dirty oriole picked juicy autumn crocus."
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "NTO",
+    "phrase": "Eĥoŝanĝo ĉiuĵaŭde",
+    "translation": "(“echo change every Thursday”)"
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "NTO",
+    "phrase": "preskaŭ freŝa ĉeĥa manĝaĵo",
+    "translation": "(“nearly fresh Czech food”)"
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "FRA",
+    "phrase": "Ça me fait peur de fêter noël là, sur cette île bizarroïde où une mère et sa môme essaient de me tuer avec un gâteau à la cigüe brûlé.",
+    "translation": "(“It frightens me to celebrate Christmas here, on this weird island where a mother and her kid are trying to kill me with a burnt hemlock cake.”) (This was made by a Yahoo! Answers user and by no means is the shortest possible)"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "GER",
+    "phrase": "Heizölrückstoßabdämpfung",
+    "translation": "(“fuel oil recoil absorber”) (which is also an isogram)"
+  },
+  {
+    "lang": "Hungarian",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "HUN",
+    "phrase": "árvíztűrő tükörfúrógép",
+    "translation": "(“flood-proof mirror-drilling machine”)"
+  },
+  {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "ISL",
+    "phrase": "Sævör grét áðan því úlpan var ónýt",
+    "translation": "(“Sævör cried earlier because the jacket was ruined”)"
+  },
+  {
+    "lang": "Norwegian",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "NOR",
+    "phrase": "Blåbærsyltetøy",
+    "translation": "(“Blueberry jam”)"
+  },
+  {
+    "lang": "Polish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "PLK",
+    "phrase": "Zażółć gęślą jaźń",
+    "translation": "(“make fiddle’s ego yellow”)"
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "TRK",
+    "phrase": "Şişli’de büyük çöp yığınları",
+    "translation": "(“Large piles of garbage in Şişli”)"
+  },
+  {
+    "lang": "Slovak",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SKY",
+    "phrase": "Päťtýždňové vĺčatá nervózne štekajú na môjho ďatľa v tŕní.",
+    "translation": "(Five weeks old wolf-cubs nervously bark at my woodpecker in a shrub.)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Räksmörgås",
+    "translation": "(“Shrimp sandwich”)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Ölälskaråsna",
+    "translation": "(“Beer-loving donkey”)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Läderfåtölj",
+    "translation": "(“leather easy-chair”)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Åland är österut, señor Müller",
+    "translation": "(“Aaland Islands are Eastward, señor Müller”)"
   }
 ]
