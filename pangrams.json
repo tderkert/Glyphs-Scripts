@@ -1,349 +1,5 @@
 [
   {
-    "lang": "Bulgarian",
-    "phrase": "Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.",
-    "translation": "А little fluffy young rabbit ran under a southern tree blooming in blue",
-    "usesAllLetters": "Yes",
-    "scriptTag": "cyrl",
-    "iso": "BGR"
-  },
-  {
-    "lang": "Czech",
-    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy.",
-    "translation": "A too yellow horse moaned devil odes.",
-    "usesAllLetters": "no (but it uses all characters with diacritics)",
-    "scriptTag": "latn",
-    "iso": "CSY"
-  },
-  {
-    "lang": "Chinese (Traditional)",
-    "phrase": "視野無限廣，窗外有藍天",
-    "translation": "The view is infinitely wide. There is blue sky outside the window.[9]",
-    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
-    "scriptTag": "hani",
-    "iso": "ZHT"
-  },
-  {
-    "lang": "Chinese (Traditional) (in Windows Vista and Windows 7)",
-    "phrase": "微風迎客，軟語伴茶",
-    "translation": "The breeze sees the guest in. Soft voice accompanies the tea.[10]",
-    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
-    "scriptTag": "hani",
-    "iso": "ZHT"
-  },
-  {
-    "lang": "Chinese (Simplified) (in Windows 7 and Windows 8)",
-    "phrase": "Innovation in China 中国智造，慧及全球 0123456789",
-    "translation": "Innovation in China benefits the whole world.[11]",
-    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
-    "scriptTag": "hani",
-    "iso": "ZHS"
-  },
-  {
-    "lang": "Danish",
-    "phrase": "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.",
-    "translation": "The quiz contestants ate strawberries with cream while Walther the clown was playing the xylophone.",
-    "usesAllLetters": "Yes",
-    "scriptTag": "latn",
-    "iso": "DAN"
-  },
-  {
-    "lang": "Dutch",
-    "phrase": "Pa’s wijze lynx bezag vroom het fikse aquaduct.",
-    "translation": "Dad’s wise lynx piously regarded the substantial aqueduct.",
-    "usesAllLetters": "yes (and not including accents)",
-    "scriptTag": "latn",
-    "iso": "NLD"
-  },
-  {
-    "lang": "Esperanto",
-    "phrase": "Eĥoŝanĝo ĉiuĵaŭde.",
-    "translation": "Change of echo every Thursday.",
-    "usesAllLetters": "no (but contains all characters specific to Esperanto)",
-    "scriptTag": "latn",
-    "iso": "NTO"
-  },
-  {
-    "lang": "Estonian",
-    "phrase": "See väike mölder jõuab rongile hüpata",
-    "translation": "This small miller is able to jump to train",
-    "usesAllLetters": "no (without c, f, q, w, x, y, z, š, ž)",
-    "scriptTag": "latn",
-    "iso": "ETI"
-  },
-  {
-    "lang": "Finnish",
-    "phrase": "Viekas kettu punaturkki laiskan koiran takaa kurkki.",
-    "translation": "The cunning red-coated fox peeped from behind the lazy dog.",
-    "usesAllLetters": "no",
-    "scriptTag": "latn",
-    "iso": "FIN"
-  },
-  {
-    "lang": "French",
-    "phrase": "Voix ambiguë d’un cœur qui au zéphyr préfère les jattes de kiwis.",
-    "translation": "Ambiguous voice of a heart which prefers dishes of kiwis in the breeze [used in Windows XP]",
-    "usesAllLetters": "yes, including diacritics except circumflex and cedilla",
-    "scriptTag": "latn",
-    "iso": "FRA"
-  },
-  {
-    "lang": "French",
-    "phrase": "Portez ce vieux whisky au juge blond qui fume.",
-    "translation": "Bring this old whisky to the blond smoking judge.",
-    "usesAllLetters": "yes, but no diacritics",
-    "scriptTag": "latn",
-    "iso": "FRA"
-  },
-  {
-    "lang": "German",
-    "phrase": "Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich",
-    "translation": "Twelve boxing fighters drive Viktor over the great Sylt Dike",
-    "usesAllLetters": "yes (including umlauts and ß)",
-    "scriptTag": "latn",
-    "iso": "GER"
-  },
-  {
-    "lang": "German",
-    "phrase": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.",
-    "translation": "Franz drives all across Bavaria in a totally run-down taxi.",
-    "usesAllLetters": "yes (lacking umlauts and ß)",
-    "scriptTag": "latn",
-    "iso": "GER"
-  },
-  {
-    "lang": "Greek",
-    "phrase": "Θέλει αρετή και τόλμη η ελευθερία. (Ανδρέας Κάλβος)",
-    "translation": "Liberty requires virtue and mettle. (Andreas Kalvos)",
-    "usesAllLetters": "no",
-    "scriptTag": "grek",
-    "iso": "ELL"
-  },
-  {
-    "lang": "Greek",
-    "phrase": "Ο καλύμνιος σφουγγαράς ψιθύρισε πως θα βουτήξει χωρίς να διστάζει.",
-    "translation": "The Calymnian spongeman whispered that he’ll dive without hesitating.",
-    "usesAllLetters": "yes (not all accented letters included)",
-    "scriptTag": "grek",
-    "iso": "ELL"
-  },
-  {
-    "lang": "Hebrew",
-    "phrase": "דג סקרן שט לו בים זך אך לפתע פגש חבורה נחמדה שצצה כך.",
-    "translation": "A curious fish sailed a clear sea, and suddenly found nice company that just popped up.",
-    "usesAllLetters": "yes, but with no distinction between regular and final forms.",
-    "scriptTag": "hebr",
-    "iso": "IWR"
-  },
-  {
-    "lang": "Hungarian (in Windows)",
-    "phrase": "Árvíztűrő tükörfúrógép",
-    "translation": "Flood-resistant mirror drill",
-    "usesAllLetters": "no (but contains all characters specific to Hungarian)",
-    "scriptTag": "latn",
-    "iso": "HUN"
-  },
-  {
-    "lang": "Hungarian",
-    "phrase": "Egy hűtlen vejét fülöncsípő, dühös mexikói úr Wesselényinél mázol Quitóban.",
-    "translation": "An angry Mexican man, who caught his faithless son-in-law, is painting Wesselényi’s house in Quito.",
-    "usesAllLetters": "without digraphs, which are considered letters of their own",
-    "scriptTag": "latn",
-    "iso": "HUN"
-  },
-  {
-    "lang": "Icelandic",
-    "phrase": "Svo hölt, yxna kýr þegði jú um dóp í fé á bæ",
-    "translation": "A cow in heat with such a limp would admittedly keep silent about drugs in sheep on a farm.",
-    "usesAllLetters": "Each letter exactly once",
-    "scriptTag": "latn",
-    "iso": "ISL"
-  },
-  {
-    "lang": "Icelandic",
-    "phrase": "Þú dazt á hnéð í vök og yfir blóm sexý pæju",
-    "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower.",
-    "usesAllLetters": "each letter exactly once, with z (obsolete spelling)",
-    "scriptTag": "latn",
-    "iso": "ISL"
-  },
-  {
-    "lang": "Indonesian",
-    "phrase": "Saya lihat foto Hamengkubuwono XV bersama enam zebra purba cantik yang jatuh dari Al Quranmu.",
-    "translation": "I saw a photo of Hamengkubuwono XV along with six beautiful ancient Zebra which fell from your Al Quran",
-    "usesAllLetters": "yes",
-    "scriptTag": 0,
-    "iso": 0
-  },
-  {
-    "lang": "Italian",
-    "phrase": "Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.",
-    "translation": "But the fox, with its jump, reached the calm dog",
-    "usesAllLetters": "yes (without foreign characters j,k,w,x,y)",
-    "scriptTag": "latn",
-    "iso": "ITA"
-  },
-  {
-    "lang": "Japanese",
-    "phrase": "いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす",
-    "translation": "Even the blossoming flowers / Will eventually scatter / Who in this world / is unchanging? / The deep mountains of vanity- / We cross them today / And we shall not see superficial dreams / Nor be deluded. (from Iroha-uta)",
-    "usesAllLetters": "all non-voiced hiragana except ん",
-    "scriptTag": "kana",
-    "iso": "JPN"
-  },
-  {
-    "lang": "Korean",
-    "phrase": "다람쥐 헌 쳇바퀴에 타고파",
-    "translation": "(I) Wanna ride on the chipmunk’s old hamster wheel. or Because Hamster want to ride on old Hamster wheel…",
-    "usesAllLetters": "uses all consonants but not all vowels",
-    "scriptTag": "hang",
-    "iso": "KOR"
-  },
-  {
-    "lang": "Latvian",
-    "phrase": "Sarkanās jūrascūciņas peld pa jūru.",
-    "translation": "Red seapigs swim in the sea.",
-    "usesAllLetters": "no",
-    "scriptTag": "latn",
-    "iso": "LVI"
-  },
-  {
-    "lang": "Norwegian (bokmål)",
-    "phrase": "En god stil må først og fremst være klar. Den må være passende. Aristoteles.",
-    "translation": "A good essay must first and foremost be clear. It must be appropriate. Aristotle.",
-    "usesAllLetters": "no",
-    "scriptTag": "latn",
-    "iso": "NOR"
-  },
-  {
-    "lang": "Polish",
-    "phrase": "Pchnąć w tę łódź jeża lub ośm skrzyń fig",
-    "translation": "Push into this boat a hedgehog or eight boxes of figs.",
-    "usesAllLetters": "yes",
-    "scriptTag": "latn",
-    "iso": "PLK"
-  },
-  {
-    "lang": "Portuguese",
-    "phrase": "A rápida raposa castanha salta por cima do cão lento.",
-    "translation": "The quick brown fox jumps over the slow dog.",
-    "usesAllLetters": "no",
-    "scriptTag": "latn",
-    "iso": "PTG"
-  },
-  {
-    "lang": "Brazilian Portuguese",
-    "phrase": "A ligeira raposa marrom ataca o cão preguiçoso.",
-    "translation": "The quick brown fox attacks the lazy dog.",
-    "usesAllLetters": "no",
-    "scriptTag": "latn",
-    "iso": "PTG"
-  },
-  {
-    "lang": "Brazilian Portuguese",
-    "phrase": "Zebras caolhas de Java querem passar fax para moças gigantes de New York",
-    "translation": "Strabic zebras from Java want to pass a fax to giant girls from New York.",
-    "usesAllLetters": "yes",
-    "scriptTag": "latn",
-    "iso": "PTG"
-  },
-  {
-    "lang": "Romanian",
-    "phrase": "Agera vulpe maronie sare peste câinele cel leneş.",
-    "translation": "The quick brown fox jumps over the lazy dog.",
-    "usesAllLetters": "no",
-    "scriptTag": "latn",
-    "iso": "ROM"
-  },
-  {
-    "lang": "Russian",
-    "phrase": "Съешь ещё этих мягких французских булок да выпей же чаю",
-    "translation": "Eat some more of these soft French buns and drink some tea [used in Windows XP]",
-    "usesAllLetters": "yes",
-    "scriptTag": "cyrl",
-    "iso": "RUS"
-  },
-  {
-    "lang": "Serbian (Cyrillic alphabet)",
-    "phrase": "Чешће цeђење мрeжастим џаком побољшава фертилизацију генских хибрида.",
-    "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids.",
-    "usesAllLetters": "yes",
-    "scriptTag": "cyrl",
-    "iso": "SRB"
-  },
-  {
-    "lang": "Serbian (Latin alphabet)",
-    "phrase": "Češće ceđenje mrežastim džakom poboljšava fertilizaciju genskih hibrida.",
-    "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids.",
-    "usesAllLetters": "yes",
-    "scriptTag": "cyrl",
-    "iso": "SRB"
-  },
-  {
-    "lang": "Slovak",
-    "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
-    "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat. (Modified sentence which contains all accents and diacritics.)",
-    "usesAllLetters": "except unaccented Y, C (as distinct from part of the digraph and separate letter CH), J, unaccented L, and the foreign letters F, G, Ó, Q, W, X",
-    "scriptTag": "latn",
-    "iso": "SKY"
-  },
-  {
-    "lang": "Slovenian",
-    "phrase": "V kožuščku hudobnega fanta stopiclja mizar in kliče 0619872345.",
-    "translation": "A cabinetmaker steps lightly through a malicious boy fur coat and calls 0619872345.",
-    "usesAllLetters": "yes",
-    "scriptTag": "latn",
-    "iso": "SLV"
-  },
-  {
-    "lang": "Spanish",
-    "phrase": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.",
-    "translation": "The quick Hindu bat was happily eating thistle and kiwi. The stork played the saxophone behind the straw palisade.",
-    "usesAllLetters": "yes",
-    "scriptTag": "latn",
-    "iso": "ESP"
-  },
-  {
-    "lang": "Swedish",
-    "phrase": "Flygande bäckasiner söka hwila på mjuka tuvor",
-    "translation": "Flying snipes soon look to rest on soft grass beds (with obsolete Swedish spelling and grammar)",
-    "usesAllLetters": "except Q, X and Z",
-    "scriptTag": "latn",
-    "iso": "SVE"
-  },
-  {
-    "lang": "Thai",
-    "phrase": "เป็นมนุษย์สุดประเสริฐเลิศคุณค่า\n\t\t\t\t\tกว่าบรรดาฝูงสัตว์เดรัจฉาน\n\t\t\t\t\tจงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร\n\t\t\t\t\tไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า\n\t\t\t\t\tหัดอภัยเหมือนกีฬาอัชฌาสัย\n\t\t\t\t\tปฏิบัติประพฤติกฎกำหนดใจ\n\t\t\t\tพูดจาให้จ๊ะ ๆ จ๋า ๆ น่าฟังเอยฯ",
-    "translation": "\n\t\t\t\t\tBeing a man is worthy\n\t\t\t\t\t\tBeyond senseless animal\n\t\t\t\t\t\tBegin educate thyself\n\t\t\t\t\t\tBegone from killing and trouble\n\t\t\t\t\t\tBear not thy grudge, damn and, curse\n\t\t\t\t\t\tBestow forgiving and sporting\n\t\t\t\t\t\tBefit with rules\n\t\t\t\t\t\tBenign speech speak thou\n\t\t\t\t\t\n\t\t\t\t",
-    "usesAllLetters": "except ฦ",
-    "scriptTag": "thai",
-    "iso": "THA"
-  },
-  {
-    "lang": "Turkish",
-    "phrase": "Pijamalı hasta, yağız şoföre çabucak güvendi",
-    "translation": "Patient with pajamas, trusted swarthy driver quickly",
-    "usesAllLetters": "Without the circumflex diacritic and the foreign characters Q, W, and X",
-    "scriptTag": "latn",
-    "iso": "TRK"
-  },
-  {
-    "lang": "Uyghur",
-    "phrase": "زۆھرەگۈل ئابدۇۋاجىت فرانسىيەنىڭ پارىژدىكى خېلى بىشەم ئوقۇغۇچى.",
-    "translation": "Those two roosters were not able to move to the mountain near Paris in France.",
-    "usesAllLetters": "yes",
-    "scriptTag": "arab",
-    "iso": "UYG"
-  },
-  {
-    "lang": "Uyghur",
-    "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
-    "translation": "Zöhregül Abduwajit is a quite unpleasant student in Paris, France.",
-    "usesAllLetters": "yes",
-    "scriptTag": "arab",
-    "iso": "UYG"
-  },
-  {
     "lang": "Arabic",
     "scriptTag": "arab",
     "usesAllLetters": 0,
@@ -392,12 +48,36 @@
     "translation": "Zafer (male name), take your jacket and cap, it will be very cold tonight."
   },
   {
+    "lang": "Brazilian Portuguese",
+    "scriptTag": "latn",
+    "usesAllLetters": "no",
+    "iso": "PTG",
+    "phrase": "A ligeira raposa marrom ataca o cão preguiçoso.",
+    "translation": "The quick brown fox attacks the lazy dog."
+  },
+  {
+    "lang": "Brazilian Portuguese",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes",
+    "iso": "PTG",
+    "phrase": "Zebras caolhas de Java querem passar fax para moças gigantes de New York",
+    "translation": "Strabic zebras from Java want to pass a fax to giant girls from New York."
+  },
+  {
     "lang": "Breton",
     "scriptTag": "latn",
     "usesAllLetters": 0,
     "iso": "BRE",
     "phrase": "Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez.",
     "translation": 0
+  },
+  {
+    "lang": "Bulgarian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "Yes",
+    "iso": "BGR",
+    "phrase": "Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.",
+    "translation": "А little fluffy young rabbit ran under a southern tree blooming in blue"
   },
   {
     "lang": "Bulgarian",
@@ -552,12 +232,44 @@
     "translation": 0
   },
   {
+    "lang": "Chinese (Simplified) (in Windows 7 and Windows 8)",
+    "scriptTag": "hani",
+    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
+    "iso": "ZHS",
+    "phrase": "Innovation in China 中国智造，慧及全球 0123456789",
+    "translation": "Innovation in China benefits the whole world.[11]"
+  },
+  {
+    "lang": "Chinese (Traditional)",
+    "scriptTag": "hani",
+    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
+    "iso": "ZHT",
+    "phrase": "視野無限廣，窗外有藍天",
+    "translation": "The view is infinitely wide. There is blue sky outside the window.[9]"
+  },
+  {
+    "lang": "Chinese (Traditional) (in Windows Vista and Windows 7)",
+    "scriptTag": "hani",
+    "usesAllLetters": "no (such a sentence would be impractical; there are several thousands of Chinese characters.)",
+    "iso": "ZHT",
+    "phrase": "微風迎客，軟語伴茶",
+    "translation": "The breeze sees the guest in. Soft voice accompanies the tea.[10]"
+  },
+  {
     "lang": "Croatian",
     "scriptTag": "latn",
     "usesAllLetters": 0,
     "iso": "HRV",
     "phrase": "Gojazni đačić s biciklom drži hmelj i finu vatu u džepu nošnje. (Used by Microsoft Office as sample text for Croatian language.)",
     "translation": "The overweight little schoolboy with a bike is holding hops and fine cotton in the pocket of his attire."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "no (but it uses all characters with diacritics)",
+    "iso": "CSY",
+    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy.",
+    "translation": "A too yellow horse moaned devil odes."
   },
   {
     "lang": "Czech",
@@ -608,6 +320,70 @@
     "translation": "Oh, sudden rain has already whirled the dust and a spry doe now gallops with a flock of gazelles for the shelter."
   },
   {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy",
+    "translation": "A horse which was too yellow moaned devilish odes"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Příšerně žluťoučký kůň úpěl ďábelské ódy",
+    "translation": "Terribly yellow horse groaned devilish odes"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Hleď, toť přízračný kůň v mátožné póze šíleně úpí",
+    "translation": "Lo! ‘Tis a ghostlike horse in a feable pose groaning maddeningly"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Zvlášť zákeřný učeň s ďolíčky běží podél zóny úlů",
+    "translation": "An exceptionally insidious pupil with dimples runs along the beehive zone"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Loď čeří kýlem tůň obzvlášť v Grónské úžině",
+    "translation": "A ship is churning up water by the keel especially in the Strait of Greenland"
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Ój, náhlý déšť teď zvířil prach a čilá laň běží s houfcem gazel k úkrytům.",
+    "translation": "Oh, sudden rain has whirled dust now and a lively hind with a herd of gazelles is running to the shelters – only “foreign” letters q, w and x absents."
+  },
+  {
+    "lang": "Czech",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "CSY",
+    "phrase": "Červený střízlíček a špinavá žlůva ďobali šťavnaté ocúny.",
+    "translation": "Small red wren and a dirty oriole picked juicy autumn crocus."
+  },
+  {
+    "lang": "Danish",
+    "scriptTag": "latn",
+    "usesAllLetters": "Yes",
+    "iso": "DAN",
+    "phrase": "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.",
+    "translation": "The quiz contestants ate strawberries with cream while Walther the clown was playing the xylophone."
+  },
+  {
     "lang": "Danish",
     "scriptTag": "latn",
     "usesAllLetters": "(Each letter exactly once)",
@@ -624,12 +400,28 @@
     "translation": "The quiz contestants ate strawberry with cream while Walter the circus clown played the xylophone."
   },
   {
+    "lang": "Dutch",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes (and not including accents)",
+    "iso": "NLD",
+    "phrase": "Pa’s wijze lynx bezag vroom het fikse aquaduct.",
+    "translation": "Dad’s wise lynx piously regarded the substantial aqueduct."
+  },
+  {
     "lang": "Dzongkha",
     "scriptTag": 0,
     "usesAllLetters": 0,
     "iso": 0,
     "phrase": "ཨ་ཡིག་དཀར་མཛེས་ལས་འཁྲུངས་ཤེས་བློའི་གཏེར༎ ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན༎ ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་དབྱངསམཐུས༎ མཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་འགྱུར་ཅིག།",
     "translation": 0
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": "no (but contains all characters specific to Esperanto)",
+    "iso": "NTO",
+    "phrase": "Eĥoŝanĝo ĉiuĵaŭde.",
+    "translation": "Change of echo every Thursday."
   },
   {
     "lang": "Esperanto",
@@ -646,6 +438,30 @@
     "iso": "NTO",
     "phrase": "Laŭ Ludoviko Zamenhof bongustas freŝa ĉeĥa manĝaĵo kun spicoj.",
     "translation": "According to Ludwig Zamenhof, fresh Czech food with spices tastes good."
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "NTO",
+    "phrase": "Eĥoŝanĝo ĉiuĵaŭde",
+    "translation": "(“echo change every Thursday”)"
+  },
+  {
+    "lang": "Esperanto",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "NTO",
+    "phrase": "preskaŭ freŝa ĉeĥa manĝaĵo",
+    "translation": "(“nearly fresh Czech food”)"
+  },
+  {
+    "lang": "Estonian",
+    "scriptTag": "latn",
+    "usesAllLetters": "no (without c, f, q, w, x, y, z, š, ž)",
+    "iso": "ETI",
+    "phrase": "See väike mölder jõuab rongile hüpata",
+    "translation": "This small miller is able to jump to train"
   },
   {
     "lang": "Estonian",
@@ -670,6 +486,14 @@
     "iso": "ETI",
     "phrase": "Jubedalt möirgav lõukoer hüppas tänaval",
     "translation": "Terribly roaring lion jumped on street"
+  },
+  {
+    "lang": "Finnish",
+    "scriptTag": "latn",
+    "usesAllLetters": "no",
+    "iso": "FIN",
+    "phrase": "Viekas kettu punaturkki laiskan koiran takaa kurkki.",
+    "translation": "The cunning red-coated fox peeped from behind the lazy dog."
   },
   {
     "lang": "Finnish",
@@ -730,6 +554,22 @@
   {
     "lang": "French",
     "scriptTag": "latn",
+    "usesAllLetters": "yes, including diacritics except circumflex and cedilla",
+    "iso": "FRA",
+    "phrase": "Voix ambiguë d’un cœur qui au zéphyr préfère les jattes de kiwis.",
+    "translation": "Ambiguous voice of a heart which prefers dishes of kiwis in the breeze [used in Windows XP]"
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes, but no diacritics",
+    "iso": "FRA",
+    "phrase": "Portez ce vieux whisky au juge blond qui fume.",
+    "translation": "Bring this old whisky to the blond smoking judge."
+  },
+  {
+    "lang": "French",
+    "scriptTag": "latn",
     "usesAllLetters": 0,
     "iso": "FRA",
     "phrase": "Buvez de ce whisky que le patron juge fameux. (36)",
@@ -784,12 +624,28 @@
     "translation": "Mister Jack, you typed much better than your friend Wolf [was used in the Swiss army to check the keyboard of typewriters before teletransmission]"
   },
   {
-    "lang": "West Frisian",
+    "lang": "French",
     "scriptTag": "latn",
-    "usesAllLetters": 0,
-    "iso": "FRI",
-    "phrase": "Alve bazige froulju wachtsje op dyn komst",
-    "translation": "Eleven bossy women await your arrival"
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "FRA",
+    "phrase": "Ça me fait peur de fêter noël là, sur cette île bizarroïde où une mère et sa môme essaient de me tuer avec un gâteau à la cigüe brûlé.",
+    "translation": "(“It frightens me to celebrate Christmas here, on this weird island where a mother and her kid are trying to kill me with a burnt hemlock cake.”) (This was made by a Yahoo! Answers user and by no means is the shortest possible)"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes (including umlauts and ß)",
+    "iso": "GER",
+    "phrase": "Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich",
+    "translation": "Twelve boxing fighters drive Viktor over the great Sylt Dike"
+  },
+  {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes (lacking umlauts and ß)",
+    "iso": "GER",
+    "phrase": "Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.",
+    "translation": "Franz drives all across Bavaria in a totally run-down taxi."
   },
   {
     "lang": "German",
@@ -832,6 +688,30 @@
     "translation": "Wrong practising of xylophone music bothers every larger dwarf"
   },
   {
+    "lang": "German",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "GER",
+    "phrase": "Heizölrückstoßabdämpfung",
+    "translation": "(“fuel oil recoil absorber”) (which is also an isogram)"
+  },
+  {
+    "lang": "Greek",
+    "scriptTag": "grek",
+    "usesAllLetters": "no",
+    "iso": "ELL",
+    "phrase": "Θέλει αρετή και τόλμη η ελευθερία. (Ανδρέας Κάλβος)",
+    "translation": "Liberty requires virtue and mettle. (Andreas Kalvos)"
+  },
+  {
+    "lang": "Greek",
+    "scriptTag": "grek",
+    "usesAllLetters": "yes (not all accented letters included)",
+    "iso": "ELL",
+    "phrase": "Ο καλύμνιος σφουγγαράς ψιθύρισε πως θα βουτήξει χωρίς να διστάζει.",
+    "translation": "The Calymnian spongeman whispered that he’ll dive without hesitating."
+  },
+  {
     "lang": "Greek",
     "scriptTag": "grek",
     "usesAllLetters": 0,
@@ -862,6 +742,14 @@
     "iso": "ELL",
     "phrase": "διαφυλάξτε γενικά τη ζωή σας από βαθειά ψυχικά τραύματα",
     "translation": "protect in general your life from deep psychological wounds"
+  },
+  {
+    "lang": "Hebrew",
+    "scriptTag": "hebr",
+    "usesAllLetters": "yes, but with no distinction between regular and final forms.",
+    "iso": "IWR",
+    "phrase": "דג סקרן שט לו בים זך אך לפתע פגש חבורה נחמדה שצצה כך.",
+    "translation": "A curious fish sailed a clear sea, and suddenly found nice company that just popped up."
   },
   {
     "lang": "Hebrew",
@@ -922,6 +810,14 @@
   {
     "lang": "Hungarian",
     "scriptTag": "latn",
+    "usesAllLetters": "without digraphs, which are considered letters of their own",
+    "iso": "HUN",
+    "phrase": "Egy hűtlen vejét fülöncsípő, dühös mexikói úr Wesselényinél mázol Quitóban.",
+    "translation": "An angry Mexican man, who caught his faithless son-in-law, is painting Wesselényi’s house in Quito."
+  },
+  {
+    "lang": "Hungarian",
+    "scriptTag": "latn",
     "usesAllLetters": 0,
     "iso": "HUN",
     "phrase": "Jó foxim és don Quijote húszwattos lámpánál ülve egy pár bűvös cipőt készít.",
@@ -934,6 +830,38 @@
     "iso": "HUN",
     "phrase": "Árvíztűrő tükörfúrógép",
     "translation": "A flood-resistant mirror drill"
+  },
+  {
+    "lang": "Hungarian",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "HUN",
+    "phrase": "árvíztűrő tükörfúrógép",
+    "translation": "(“flood-proof mirror-drilling machine”)"
+  },
+  {
+    "lang": "Hungarian (in Windows)",
+    "scriptTag": "latn",
+    "usesAllLetters": "no (but contains all characters specific to Hungarian)",
+    "iso": "HUN",
+    "phrase": "Árvíztűrő tükörfúrógép",
+    "translation": "Flood-resistant mirror drill"
+  },
+  {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": "Each letter exactly once",
+    "iso": "ISL",
+    "phrase": "Svo hölt, yxna kýr þegði jú um dóp í fé á bæ",
+    "translation": "A cow in heat with such a limp would admittedly keep silent about drugs in sheep on a farm."
+  },
+  {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": "each letter exactly once, with z (obsolete spelling)",
+    "iso": "ISL",
+    "phrase": "Þú dazt á hnéð í vök og yfir blóm sexý pæju",
+    "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower."
   },
   {
     "lang": "Icelandic",
@@ -960,12 +888,28 @@
     "translation": "You fell on the knee in a hole in the ice and over a sexy girl’s flower."
   },
   {
+    "lang": "Icelandic",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "ISL",
+    "phrase": "Sævör grét áðan því úlpan var ónýt",
+    "translation": "(“Sævör cried earlier because the jacket was ruined”)"
+  },
+  {
     "lang": "Igbo",
     "scriptTag": 0,
     "usesAllLetters": 0,
     "iso": 0,
     "phrase": "Nne, nna, wepụ he’l’ụjọ dum n’ime ọzụzụ ụmụ, vufesi obi nye Chukwu, ṅụrịanụ, gbakọọnụ kpaa, kwee ya ka o guzoshie ike; ọ ghaghị ito, nwapụta ezi agwa. (all 36 letters and diacritics).",
     "translation": 0
+  },
+  {
+    "lang": "Indonesian",
+    "scriptTag": 0,
+    "usesAllLetters": "yes",
+    "iso": 0,
+    "phrase": "Saya lihat foto Hamengkubuwono XV bersama enam zebra purba cantik yang jatuh dari Al Quranmu.",
+    "translation": "I saw a photo of Hamengkubuwono XV along with six beautiful ancient Zebra which fell from your Al Quran"
   },
   {
     "lang": "Indonesian",
@@ -1016,6 +960,22 @@
     "translation": "A greatly satisfied woman went with a truly white dense spade through the hat of my good little well-fattened pig (uses both regular and lenited (with dot above) letters)"
   },
   {
+    "lang": "Italian",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes (without foreign characters j,k,w,x,y)",
+    "iso": "ITA",
+    "phrase": "Ma la volpe, col suo balzo, ha raggiunto il quieto Fido.",
+    "translation": "But the fox, with its jump, reached the calm dog"
+  },
+  {
+    "lang": "Japanese",
+    "scriptTag": "kana",
+    "usesAllLetters": "all non-voiced hiragana except ん",
+    "iso": "JPN",
+    "phrase": "いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす",
+    "translation": "Even the blossoming flowers / Will eventually scatter / Who in this world / is unchanging? / The deep mountains of vanity- / We cross them today / And we shall not see superficial dreams / Nor be deluded. (from Iroha-uta)"
+  },
+  {
     "lang": "Javanese",
     "scriptTag": 0,
     "usesAllLetters": 0,
@@ -1034,6 +994,14 @@
   {
     "lang": "Korean",
     "scriptTag": "hang",
+    "usesAllLetters": "uses all consonants but not all vowels",
+    "iso": "KOR",
+    "phrase": "다람쥐 헌 쳇바퀴에 타고파",
+    "translation": "(I) Wanna ride on the chipmunk’s old hamster wheel. or Because Hamster want to ride on old Hamster wheel…"
+  },
+  {
+    "lang": "Korean",
+    "scriptTag": "hang",
     "usesAllLetters": 0,
     "iso": "KOR",
     "phrase": "키스의 고유조건은 입술끼리 만나야 하고 특별한 기술은 필요치 않다.\n                Kiseu-ui goyujogeoneun ipsulkkiri mannaya hago teukbyeolhan gisureun pilyochi antha.",
@@ -1046,6 +1014,14 @@
     "iso": "LAT",
     "phrase": "Sic fugiens, dux, zelotypos, quam Karus haberis.[5]",
     "translation": "Thus fleeing, O leader, you are regarded with jealousy like Karus.\n                    Includes the letters k, y and z, used for words derived from Greek, but not the letters j, v or w, consonants that evolved from the vowels i and u."
+  },
+  {
+    "lang": "Latvian",
+    "scriptTag": "latn",
+    "usesAllLetters": "no",
+    "iso": "LVI",
+    "phrase": "Sarkanās jūrascūciņas peld pa jūru.",
+    "translation": "Red seapigs swim in the sea."
   },
   {
     "lang": "Latvian",
@@ -1104,6 +1080,54 @@
     "translation": "The genius from Sri Lanka read the formula of elixir of life thoroughly in the almond tree next to Zalun market."
   },
   {
+    "lang": "Norwegian",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "NOR",
+    "phrase": "Blåbærsyltetøy",
+    "translation": "(“Blueberry jam”)"
+  },
+  {
+    "lang": "Norwegian (bokmål)",
+    "scriptTag": "latn",
+    "usesAllLetters": "no",
+    "iso": "NOR",
+    "phrase": "En god stil må først og fremst være klar. Den må være passende. Aristoteles.",
+    "translation": "A good essay must first and foremost be clear. It must be appropriate. Aristotle."
+  },
+  {
+    "lang": "Polish",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes",
+    "iso": "PLK",
+    "phrase": "Pchnąć w tę łódź jeża lub ośm skrzyń fig",
+    "translation": "Push into this boat a hedgehog or eight boxes of figs."
+  },
+  {
+    "lang": "Polish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "PLK",
+    "phrase": "Zażółć gęślą jaźń",
+    "translation": "(“make fiddle’s ego yellow”)"
+  },
+  {
+    "lang": "Portuguese",
+    "scriptTag": "latn",
+    "usesAllLetters": "no",
+    "iso": "PTG",
+    "phrase": "A rápida raposa castanha salta por cima do cão lento.",
+    "translation": "The quick brown fox jumps over the slow dog."
+  },
+  {
+    "lang": "Portuguese",
+    "scriptTag": "latn",
+    "usesAllLetters": "with diacritics",
+    "iso": "PTG",
+    "phrase": "Luís argüia à Júlia que «brações, fé, chá, óxido, pôr, zângão» eram palavras do português.",
+    "translation": "Luís argued to Júlia that “big arms, faith, tea, oxide, to put, bee” were Portuguese words."
+  },
+  {
     "lang": "Portuguese (Brazilian)",
     "scriptTag": "latn",
     "usesAllLetters": "without diacritics",
@@ -1136,12 +1160,12 @@
     "translation": "One-eyed zebras from Java want to fax for giant ladies from New York."
   },
   {
-    "lang": "Portuguese",
+    "lang": "Romanian",
     "scriptTag": "latn",
-    "usesAllLetters": "with diacritics",
-    "iso": "PTG",
-    "phrase": "Luís argüia à Júlia que «brações, fé, chá, óxido, pôr, zângão» eram palavras do português.",
-    "translation": "Luís argued to Júlia that “big arms, faith, tea, oxide, to put, bee” were Portuguese words."
+    "usesAllLetters": "no",
+    "iso": "ROM",
+    "phrase": "Agera vulpe maronie sare peste câinele cel leneş.",
+    "translation": "The quick brown fox jumps over the lazy dog."
   },
   {
     "lang": "Romanian",
@@ -1174,6 +1198,14 @@
     "iso": "ROM",
     "phrase": "Înjurând pițigăiat, zoofobul comandă vexat whisky și tequila.",
     "translation": "Swearing in high pitch, the zoophobic man vexedly ordered whisky and tequila."
+  },
+  {
+    "lang": "Russian",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "yes",
+    "iso": "RUS",
+    "phrase": "Съешь ещё этих мягких французских булок да выпей же чаю",
+    "translation": "Eat some more of these soft French buns and drink some tea [used in Windows XP]"
   },
   {
     "lang": "Russian",
@@ -1248,6 +1280,30 @@
     "translation": "Before Kate-Una left the Iona cattle auction with hops."
   },
   {
+    "lang": "Serbian (Cyrillic alphabet)",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "yes",
+    "iso": "SRB",
+    "phrase": "Чешће цeђење мрeжастим џаком побољшава фертилизацију генских хибрида.",
+    "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids."
+  },
+  {
+    "lang": "Serbian (Latin alphabet)",
+    "scriptTag": "cyrl",
+    "usesAllLetters": "yes",
+    "iso": "SRB",
+    "phrase": "Češće ceđenje mrežastim džakom poboljšava fertilizaciju genskih hibrida.",
+    "translation": "More frequent filtering through the reticular bag improves fertilization of genetic hybrids."
+  },
+  {
+    "lang": "Slovak",
+    "scriptTag": "latn",
+    "usesAllLetters": "except unaccented Y, C (as distinct from part of the digraph and separate letter CH), J, unaccented L, and the foreign letters F, G, Ó, Q, W, X",
+    "iso": "SKY",
+    "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
+    "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat. (Modified sentence which contains all accents and diacritics.)"
+  },
+  {
     "lang": "Slovak",
     "scriptTag": "latn",
     "usesAllLetters": "(contains only all accented letters except š)",
@@ -1262,6 +1318,22 @@
     "iso": "SKY",
     "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
     "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat"
+  },
+  {
+    "lang": "Slovak",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SKY",
+    "phrase": "Päťtýždňové vĺčatá nervózne štekajú na môjho ďatľa v tŕní.",
+    "translation": "(Five weeks old wolf-cubs nervously bark at my woodpecker in a shrub.)"
+  },
+  {
+    "lang": "Slovenian",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes",
+    "iso": "SLV",
+    "phrase": "V kožuščku hudobnega fanta stopiclja mizar in kliče 0619872345.",
+    "translation": "A cabinetmaker steps lightly through a malicious boy fur coat and calls 0619872345."
   },
   {
     "lang": "Slovenian",
@@ -1310,6 +1382,14 @@
     "iso": "SLV",
     "phrase": "V kožuščku hudobnega fanta stopiclja mizar.",
     "translation": "A cabinetmaker steps lightly through a malicious boy’s fur coat."
+  },
+  {
+    "lang": "Spanish",
+    "scriptTag": "latn",
+    "usesAllLetters": "yes",
+    "iso": "ESP",
+    "phrase": "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.",
+    "translation": "The quick Hindu bat was happily eating thistle and kiwi. The stork played the saxophone behind the straw palisade."
   },
   {
     "lang": "Spanish",
@@ -1394,6 +1474,14 @@
   {
     "lang": "Swedish",
     "scriptTag": "latn",
+    "usesAllLetters": "except Q, X and Z",
+    "iso": "SVE",
+    "phrase": "Flygande bäckasiner söka hwila på mjuka tuvor",
+    "translation": "Flying snipes soon look to rest on soft grass beds (with obsolete Swedish spelling and grammar)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
     "usesAllLetters": "(lacks q, x and z, old spelling ‘hw’)",
     "iso": "SVE",
     "phrase": "Flygande bäckasiner söka hwila på mjuka tuvor.",
@@ -1424,6 +1512,46 @@
     "translation": "Trouser-estranged foal went to the pigeon show"
   },
   {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Räksmörgås",
+    "translation": "(“Shrimp sandwich”)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Ölälskaråsna",
+    "translation": "(“Beer-loving donkey”)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Läderfåtölj",
+    "translation": "(“leather easy-chair”)"
+  },
+  {
+    "lang": "Swedish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "SVE",
+    "phrase": "Åland är österut, señor Müller",
+    "translation": "(“Aaland Islands are Eastward, señor Müller”)"
+  },
+  {
+    "lang": "Thai",
+    "scriptTag": "thai",
+    "usesAllLetters": "except ฦ",
+    "iso": "THA",
+    "phrase": "เป็นมนุษย์สุดประเสริฐเลิศคุณค่า\n\t\t\t\t\tกว่าบรรดาฝูงสัตว์เดรัจฉาน\n\t\t\t\t\tจงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร\n\t\t\t\t\tไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า\n\t\t\t\t\tหัดอภัยเหมือนกีฬาอัชฌาสัย\n\t\t\t\t\tปฏิบัติประพฤติกฎกำหนดใจ\n\t\t\t\tพูดจาให้จ๊ะ ๆ จ๋า ๆ น่าฟังเอยฯ",
+    "translation": "\n\t\t\t\t\tBeing a man is worthy\n\t\t\t\t\t\tBeyond senseless animal\n\t\t\t\t\t\tBegin educate thyself\n\t\t\t\t\t\tBegone from killing and trouble\n\t\t\t\t\t\tBear not thy grudge, damn and, curse\n\t\t\t\t\t\tBestow forgiving and sporting\n\t\t\t\t\t\tBefit with rules\n\t\t\t\t\t\tBenign speech speak thou\n\t\t\t\t\t\n\t\t\t\t"
+  },
+  {
     "lang": "Thai",
     "scriptTag": "thai",
     "usesAllLetters": 0,
@@ -1446,6 +1574,14 @@
     "iso": 0,
     "phrase": "༈ དཀར་མཛེས་ཨ་ཡིག་ལས་འཁྲུངས་ཡེ་ཤེས་གཏེར། །ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན། །ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་བྱངས་མཐུས། །མ་ཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་གྱུར་ཅིག།",
     "translation": 0
+  },
+  {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "Without the circumflex diacritic and the foreign characters Q, W, and X",
+    "iso": "TRK",
+    "phrase": "Pijamalı hasta, yağız şoföre çabucak güvendi",
+    "translation": "Patient with pajamas, trusted swarthy driver quickly"
   },
   {
     "lang": "Turkish",
@@ -1496,6 +1632,14 @@
     "translation": "The project of making fancy shirt guarantees rain collapsed."
   },
   {
+    "lang": "Turkish",
+    "scriptTag": "latn",
+    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
+    "iso": "TRK",
+    "phrase": "Şişli’de büyük çöp yığınları",
+    "translation": "(“Large piles of garbage in Şişli”)"
+  },
+  {
     "lang": "Ukrainian",
     "scriptTag": 0,
     "usesAllLetters": 0,
@@ -1514,17 +1658,25 @@
   {
     "lang": "Uyghur",
     "scriptTag": "arab",
+    "usesAllLetters": "yes",
+    "iso": "UYG",
+    "phrase": "زۆھرەگۈل ئابدۇۋاجىت فرانسىيەنىڭ پارىژدىكى خېلى بىشەم ئوقۇغۇچى.",
+    "translation": "Those two roosters were not able to move to the mountain near Paris in France."
+  },
+  {
+    "lang": "Uyghur",
+    "scriptTag": "arab",
+    "usesAllLetters": "yes",
+    "iso": "UYG",
+    "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
+    "translation": "Zöhregül Abduwajit is a quite unpleasant student in Paris, France."
+  },
+  {
+    "lang": "Uyghur",
+    "scriptTag": "arab",
     "usesAllLetters": 0,
     "iso": "UYG",
     "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
-    "translation": 0
-  },
-  {
-    "lang": "Yoruba",
-    "scriptTag": 0,
-    "usesAllLetters": 0,
-    "iso": 0,
-    "phrase": "Ìwò̩fà ń yò̩ séji tó gbojúmó̩, ó hàn pákànpò̩ gan-an nis̩é̩ rè̩ bó dò̩la. (all 25 letters with diacritics).",
     "translation": 0
   },
   {
@@ -1536,171 +1688,19 @@
     "translation": "I parked my magic JCB [digger] full of water near Mabon’s house."
   },
   {
-    "lang": "Czech",
+    "lang": "West Frisian",
     "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Příliš žluťoučký kůň úpěl ďábelské ódy",
-    "translation": "A horse which was too yellow moaned devilish odes"
+    "usesAllLetters": 0,
+    "iso": "FRI",
+    "phrase": "Alve bazige froulju wachtsje op dyn komst",
+    "translation": "Eleven bossy women await your arrival"
   },
   {
-    "lang": "Czech",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Příšerně žluťoučký kůň úpěl ďábelské ódy",
-    "translation": "Terribly yellow horse groaned devilish odes"
-  },
-  {
-    "lang": "Czech",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Hleď, toť přízračný kůň v mátožné póze šíleně úpí",
-    "translation": "Lo! ‘Tis a ghostlike horse in a feable pose groaning maddeningly"
-  },
-  {
-    "lang": "Czech",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Zvlášť zákeřný učeň s ďolíčky běží podél zóny úlů",
-    "translation": "An exceptionally insidious pupil with dimples runs along the beehive zone"
-  },
-  {
-    "lang": "Czech",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Loď čeří kýlem tůň obzvlášť v Grónské úžině",
-    "translation": "A ship is churning up water by the keel especially in the Strait of Greenland"
-  },
-  {
-    "lang": "Czech",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Ój, náhlý déšť teď zvířil prach a čilá laň běží s houfcem gazel k úkrytům.",
-    "translation": "Oh, sudden rain has whirled dust now and a lively hind with a herd of gazelles is running to the shelters – only “foreign” letters q, w and x absents."
-  },
-  {
-    "lang": "Czech",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "CSY",
-    "phrase": "Červený střízlíček a špinavá žlůva ďobali šťavnaté ocúny.",
-    "translation": "Small red wren and a dirty oriole picked juicy autumn crocus."
-  },
-  {
-    "lang": "Esperanto",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "NTO",
-    "phrase": "Eĥoŝanĝo ĉiuĵaŭde",
-    "translation": "(“echo change every Thursday”)"
-  },
-  {
-    "lang": "Esperanto",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "NTO",
-    "phrase": "preskaŭ freŝa ĉeĥa manĝaĵo",
-    "translation": "(“nearly fresh Czech food”)"
-  },
-  {
-    "lang": "French",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "FRA",
-    "phrase": "Ça me fait peur de fêter noël là, sur cette île bizarroïde où une mère et sa môme essaient de me tuer avec un gâteau à la cigüe brûlé.",
-    "translation": "(“It frightens me to celebrate Christmas here, on this weird island where a mother and her kid are trying to kill me with a burnt hemlock cake.”) (This was made by a Yahoo! Answers user and by no means is the shortest possible)"
-  },
-  {
-    "lang": "German",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "GER",
-    "phrase": "Heizölrückstoßabdämpfung",
-    "translation": "(“fuel oil recoil absorber”) (which is also an isogram)"
-  },
-  {
-    "lang": "Hungarian",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "HUN",
-    "phrase": "árvíztűrő tükörfúrógép",
-    "translation": "(“flood-proof mirror-drilling machine”)"
-  },
-  {
-    "lang": "Icelandic",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "ISL",
-    "phrase": "Sævör grét áðan því úlpan var ónýt",
-    "translation": "(“Sævör cried earlier because the jacket was ruined”)"
-  },
-  {
-    "lang": "Norwegian",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "NOR",
-    "phrase": "Blåbærsyltetøy",
-    "translation": "(“Blueberry jam”)"
-  },
-  {
-    "lang": "Polish",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "PLK",
-    "phrase": "Zażółć gęślą jaźń",
-    "translation": "(“make fiddle’s ego yellow”)"
-  },
-  {
-    "lang": "Turkish",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "TRK",
-    "phrase": "Şişli’de büyük çöp yığınları",
-    "translation": "(“Large piles of garbage in Şişli”)"
-  },
-  {
-    "lang": "Slovak",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "SKY",
-    "phrase": "Päťtýždňové vĺčatá nervózne štekajú na môjho ďatľa v tŕní.",
-    "translation": "(Five weeks old wolf-cubs nervously bark at my woodpecker in a shrub.)"
-  },
-  {
-    "lang": "Swedish",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "SVE",
-    "phrase": "Räksmörgås",
-    "translation": "(“Shrimp sandwich”)"
-  },
-  {
-    "lang": "Swedish",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "SVE",
-    "phrase": "Ölälskaråsna",
-    "translation": "(“Beer-loving donkey”)"
-  },
-  {
-    "lang": "Swedish",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "SVE",
-    "phrase": "Läderfåtölj",
-    "translation": "(“leather easy-chair”)"
-  },
-  {
-    "lang": "Swedish",
-    "scriptTag": "latn",
-    "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
-    "iso": "SVE",
-    "phrase": "Åland är österut, señor Müller",
-    "translation": "(“Aaland Islands are Eastward, señor Müller”)"
+    "lang": "Yoruba",
+    "scriptTag": 0,
+    "usesAllLetters": 0,
+    "iso": 0,
+    "phrase": "Ìwò̩fà ń yò̩ séji tó gbojúmó̩, ó hàn pákànpò̩ gan-an nis̩é̩ rè̩ bó dò̩la. (all 25 letters with diacritics).",
+    "translation": 0
   }
 ]
