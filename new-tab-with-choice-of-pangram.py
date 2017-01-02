@@ -18,10 +18,10 @@ with open('pangrams.json') as data_file:
 
 class PangramSelecter(object):
 	def __init__(self):
-		self.w = Window((700, 400),"New Tab With Pangram", minSize=(250,200), maxSize=(1000,1000))
+		self.w = Window((900, 500),"New Tab With Pangram", minSize=(250,200), maxSize=(1000,1000))
 		self.w.textBox = TextBox((10, 10, -10, 55), "Select Language(s):")
 		self.w.checkBox = CheckBox((400, 10, -10, 20), "Turn on Localized Forms", value=True)
-		self.w.list = List((10, 40, -10, -40), pangrams, columnDescriptions=[{"title": "lang", "width": 200}, {"title": "phrase"}, {"title": "usesAllLetters", "width": 300}])
+		self.w.list = List((10, 40, -10, -40), pangrams, columnDescriptions=[{"title": "lang", "width": 200}, {"title": "phrase", "width": 400}, {"title": "usesAllLetters", "width": 300}])
 		self.w.button = Button((10, -30, -10, 20), "OpenTab", callback=self.buttonCallback)
 		self.w.open()
 	
