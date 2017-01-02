@@ -27,7 +27,7 @@ class PangramSelecter(object):
 	
 	def buttonCallback(self, sender):
 		listIndexes = self.w.list.getSelection()
-		showLocalizedForms = self.w.checkbox.get()
+		showLocalizedForms = self.w.checkBox.get()
 		for i in listIndexes:
 			# Pangram data
 			phrase = pangrams[i]["phrase"]
