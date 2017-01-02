@@ -11,7 +11,7 @@ for glyph in glyphs:
 	for layer in glyph.layers:
 		for bracket in brackets:
 			if bracket in layer.name:
-				glyphsString += glyph.string + ' '
+				glyphsString += '/'+glyph.name + ' '
 				
 
 font.newTab(glyphsString)			
