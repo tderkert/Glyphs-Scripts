@@ -3,7 +3,6 @@
 
 font = Glyphs.font
 glyphs = font.glyphs
-masters = font.masters
 brackets = ('[',']')
 
 print "Copy metrics to bracket Layers"
@@ -12,8 +11,7 @@ for glyph in glyphs:
 		for bracket in brackets:
 			if bracket in layer.name:
 				# Parent master layer
-				pMaster = masters[layer.associatedMasterId]
-				pMasterLayer = glyph.layers[pMaster.id]
+				pMasterLayer = glyph.layers[layer.associatedMasterId]
 				
 				# Copy metrics from parent master layer
 				layer.LSB = pMasterLayer.LSB
