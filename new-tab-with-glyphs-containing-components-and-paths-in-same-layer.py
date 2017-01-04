@@ -1,5 +1,8 @@
 #MenuTitle: New Tab With Glyphs Containing Both Components And Paths In Current Master
-'''New tab with glyphs containing both components and paths (only in current master)'''
+# -*- coding: utf-8 -*-
+__doc__="""
+New tab with glyphs containing both components and paths (only in current master)
+"""
 
 font = Glyphs.font
 glyphs = font.glyphs

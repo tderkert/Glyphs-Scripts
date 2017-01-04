@@ -1,5 +1,8 @@
 #MenuTitle: New Tab With Random Words
-'''New tab with 10 random words from 'http://www.setgetgo.com/randomword' API. (Required internet connection)'''
+# -*- coding: utf-8 -*-
+__doc__="""
+New tab with 10 random words from 'http://www.setgetgo.com/randomword' API. (Required internet connection)
+"""
 
 import urllib2
 

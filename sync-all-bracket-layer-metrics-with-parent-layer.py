@@ -1,5 +1,8 @@
 #MenuTitle: Sync All Bracket Layer Metrics With Parent Layer
-'''Copies metrics from master layer to its associated bracket layers'''
+# -*- coding: utf-8 -*-
+__doc__="""
+Copies metrics from master layer to its associated bracket layers
+"""
 
 font = Glyphs.font
 glyphs = font.glyphs

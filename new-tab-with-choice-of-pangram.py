@@ -1,5 +1,8 @@
 #MenuTitle: New Tab With Pangram from Selected Langauge
-'''Select a language in list and open a new tab with a pangram'''
+# -*- coding: utf-8 -*-
+__doc__="""
+Select a language in list and open a new tab with a pangram
+"""
 
 
 # Glyphs.clearLog()

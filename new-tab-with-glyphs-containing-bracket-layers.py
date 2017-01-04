@@ -1,5 +1,8 @@
 #MenuTitle: New Tab With All Glyphs Containing Bracket Layers
-'''New tab with glyphs containing bracket layers'''
+# -*- coding: utf-8 -*-
+__doc__="""
+New tab with glyphs containing bracket layers
+"""
 
 font = Glyphs.font
 glyphs = font.glyphs

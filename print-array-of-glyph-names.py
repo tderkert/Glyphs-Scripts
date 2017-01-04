@@ -1,5 +1,8 @@
 #MenuTitle: Print An Array Of All Unicode Glyphs In String Format
-'''Generate an array of all unicode glyphs in string format'''
+# -*- coding: utf-8 -*-
+__doc__="""
+Generate an array of all unicode glyphs in string format
+"""
 
 font = Glyphs.font
 glyphs = font.glyphs
