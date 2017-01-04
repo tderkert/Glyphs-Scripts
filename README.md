@@ -9,5 +9,6 @@ Python scripts for [Glyphs](glyphsapp.com) font editor.
 **New tab with glyphs containing both components and paths in same layer:** Open new tab with glyphs containing both components and paths in same layer (only in current layer)  
 **New tab with glyphs containing unaligned components:** Open new tab with glyphs containing unaligned components (only in current layer)  
 **Print An Array Of All Unicode Glyphs In String Format**  
+**New Tab With Random Words:** New tab with 10 random words from 'http://www.setgetgo.com/randomword' API. (Required internet connection)  
 
 
