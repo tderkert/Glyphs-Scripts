@@ -116,14 +116,6 @@
     "scriptTag": "cyrl",
     "usesAllLetters": "-",
     "iso": "BGR",
-    "phrase": "Под южно дърво, цъфтящо в синьо, бягаше малко пухкаво зайче.",
-    "translation": "Under a southern tree, blooming in blue, ran a little fluffy bunny."
-  },
-  {
-    "lang": "Bulgarian",
-    "scriptTag": "cyrl",
-    "usesAllLetters": "-",
-    "iso": "BGR",
     "phrase": "Шугав льохман, държащ птицечовка без сейф и ютия.",
     "translation": "A mangy lummox, holding a platypus without a safe and flat iron."
   },
@@ -390,14 +382,6 @@
     "iso": "DAN",
     "phrase": "Høj bly gom vandt fræk sexquiz på wc",
     "translation": "Tall shy groom won dirty sex quiz on W.C."
-  },
-  {
-    "lang": "Danish",
-    "scriptTag": "latn",
-    "usesAllLetters": "-",
-    "iso": "DAN",
-    "phrase": "Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.",
-    "translation": "The quiz contestants ate strawberry with cream while Walter the circus clown played the xylophone."
   },
   {
     "lang": "Dutch",
@@ -756,14 +740,6 @@
     "scriptTag": "latn",
     "usesAllLetters": "-",
     "iso": "ETI",
-    "phrase": "See väike mölder jõuab rongile hüpata",
-    "translation": "This small miller is able to jump to train (used in localized version of Microsoft Word in Office XP, contains all non-foreign letters)"
-  },
-  {
-    "lang": "Estonian",
-    "scriptTag": "latn",
-    "usesAllLetters": "-",
-    "iso": "ETI",
     "phrase": "Jubedalt möirgav lõukoer hüppas tänaval",
     "translation": "Terribly roaring lion jumped on street"
   },
@@ -1106,21 +1082,13 @@
   {
     "lang": "Hungarian",
     "scriptTag": "latn",
-    "usesAllLetters": "-",
-    "iso": "HUN",
-    "phrase": "Árvíztűrő tükörfúrógép",
-    "translation": "A flood-resistant mirror drill"
-  },
-  {
-    "lang": "Hungarian",
-    "scriptTag": "latn",
     "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
     "iso": "HUN",
     "phrase": "árvíztűrő tükörfúrógép",
     "translation": "(“flood-proof mirror-drilling machine”)"
   },
   {
-    "lang": "Hungarian (in Windows)",
+    "lang": "Hungarian",
     "scriptTag": "latn",
     "usesAllLetters": "no (but contains all characters specific to Hungarian)",
     "iso": "HUN",
@@ -1594,14 +1562,6 @@
   {
     "lang": "Slovak",
     "scriptTag": "latn",
-    "usesAllLetters": "(This is a modified sentence that not only contains modified letters with diacritics but also those without)",
-    "iso": "SKY",
-    "phrase": "Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.",
-    "translation": "A flock of happy woodpeckers by the mouth of the river Vah is teaching a silent horse to nibble on bark and feed on fresh meat"
-  },
-  {
-    "lang": "Slovak",
-    "scriptTag": "latn",
     "usesAllLetters": "variant tries to make a word or phrase containing at least all letters with diacritical marks",
     "iso": "SKY",
     "phrase": "Päťtýždňové vĺčatá nervózne štekajú na môjho ďatľa v tŕní.",
@@ -1950,14 +1910,6 @@
     "iso": "UYG",
     "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
     "translation": "Zöhregül Abduwajit is a quite unpleasant student in Paris, France."
-  },
-  {
-    "lang": "Uyghur",
-    "scriptTag": "arab",
-    "usesAllLetters": "-",
-    "iso": "UYG",
-    "phrase": "ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.",
-    "translation": 0
   },
   {
     "lang": "Welsh",
