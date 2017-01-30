@@ -22,7 +22,7 @@ wordList = getWords(apiUrl)
 
 # Create string of words
 for word in wordList:
-	tabString = tabString + word["word"] + "\n"
+	tabString = tabString + word["word"].title() + "\n"
 
 # Open tab with words
 font.newTab(tabString)
