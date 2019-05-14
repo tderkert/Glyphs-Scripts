@@ -15,7 +15,7 @@ font = Glyphs.font
 class CopyMasterLayer(object):
 
 	def __init__( self):
-		self.w = vanilla.FloatingWindow((400, 80), "Create copy of a master layer with new name", minSize=(400, 180), maxSize=(500, 80), autosaveName="com.tderkert.CopyMasterLayer.mainwindow" )
+		self.w = vanilla.FloatingWindow((460, 120), "Create copy of a master layer with new name", minSize=(460, 120), maxSize=(460, 120))
 
 		# Master
 		self.w.textReplace = vanilla.TextBox((15, 12+2, 65, 14), "Master:", sizeStyle='small')
@@ -25,8 +25,11 @@ class CopyMasterLayer(object):
 		self.w.textName = vanilla.TextBox((15, 40+2, 150, 14), "New layer name:", sizeStyle='small')
 		self.w.newLayerName = vanilla.EditText((120, 40, -120, 19), "Intermediate {100}", sizeStyle='small', callback=self.SavePrefs)
 
+		# Delete all extra layers option
+		self.w.deleteExtraLayers = vanilla.CheckBox((120, 68, -120, 19), "Delete all other layers", value=False, sizeStyle='small', callback=self.SavePrefs )
+
 		# Callback button
-		self.w.createButton = vanilla.Button((-80, 12+2, -15, 17), "Create", sizeStyle='small', callback=self.ButtonCallback )
+		self.w.createButton = vanilla.Button((-80, 68, -15, 17), "Create", sizeStyle='small', callback=self.ButtonCallback )
 		self.w.setDefaultButton( self.w.createButton )
 
 		# Use defaults if no saved preferences
@@ -36,13 +39,20 @@ class CopyMasterLayer(object):
 		self.w.open()
 
 	def ButtonCallback( self, sender ):
-	
+		# All selected glyphs
 		selectedGlyphs = [ l.parent for l in Glyphs.font.selectedLayers ]
 
-		
+		# Variables
 		newName = self.w.newLayerName.get()
 		masterName = str( self.w.masterName.getItems()[self.w.masterName.get()] )
+		deleteLayers = self.w.deleteExtraLayers.get()
 		
+		# Delete extra leyers
+		if deleteLayers:
+			self.DeleteExtraLayers()
+			print "Extra layers deleted"
+
+		# Create new layers
 		for glyph in selectedGlyphs:
 			for layer in glyph.layers:
 				if layer.name == masterName:
@@ -51,35 +61,41 @@ class CopyMasterLayer(object):
 					newLayer.name = newName
 					glyph.layers.append(newLayer)
 
-		# newLayer = font.glyphs['a'].layers[0].copy()
-		# newLayer.name = 'Copy of layer'
-
+		# Update preview to show changes in interpolated instances
+		font.disableUpdateInterface()
+		font.enableUpdateInterface()
 		return True
 	
-	def GetMasterNames( self):
+	def GetMasterNames( self ):
 		myMasterList = set()
 		allMasters = font.masters
 		for master in allMasters:
 			myMasterList.add( master.name )
 		
-		# myComponentList.sort( key=len, reverse=False )
 		return sorted( list( myMasterList ))
 	
-	def SetComponentNames( self, sender ):
-		myComponentList = self.GetMasterNames()
-		self.w.componentName.setItems( myComponentList )
-		return True
-	
-	
+	def DeleteExtraLayers( self ):
+		Layers = Glyphs.font.selectedLayers
+		for Layer in Layers:
+			Glyph = Layer.parent
+			NewLayers = {}
+			for m in Glyphs.font.masters:
+				NewLayers[m.id] = Glyph.layers[m.id]
+			Glyph.setLayers_(NewLayers)
+
+
 	def SavePrefs( self, sender ):
 		Glyphs.defaults["com.tderkert.CopyMasterLayer.newLayerName"] = self.w.newLayerName.get()
+		Glyphs.defaults["com.tderkert.CopyMasterLayer.deleteExtraLayers"] = self.w.deleteExtraLayers.get()
 		return True
 	
 	def LoadPrefs( self ):
 		try:
 			self.w.newLayerName.set( Glyphs.defaults["com.tderkert.CopyMasterLayer.newLayerName"] )
+			self.w.deleteExtraLayers.set( Glyphs.defaults["com.tderkert.CopyMasterLayer.deleteExtraLayers"] )
 			return True
 		except:
 			return False
 
 CopyMasterLayer()
+
