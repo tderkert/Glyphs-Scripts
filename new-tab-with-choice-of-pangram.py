@@ -64,7 +64,6 @@ class PangramSelecter(object):
 				if langSystems:
 					code = langSystems.split('\n'); 
 					for line in code: 
-						if iso in line:
 						if str(iso) in line:
 							scriptString = scriptTag + ' ' + iso
 							# Turn on 'locl' and turn on script
