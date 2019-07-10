@@ -23,15 +23,29 @@ class PangramSelecter(object):
 	def __init__(self):
 		self.w = Window((900, 500),"New Tab With Pangram", minSize=(250,200), maxSize=(1000,1000))
 		self.w.textBox = TextBox((10, 10, -10, 55), "Select Language(s):")
-		self.w.checkBox = CheckBox((400, 10, -10, 20), "Turn on Localized Forms", value=True)
-		self.w.list = List((10, 40, -10, -40), pangrams, columnDescriptions=[{"title": "lang", "width": 200}, {"title": "phrase", "width": 400}, {"title": "usesAllLetters", "width": 300}])
+		self.w.localizedFormCheckBox = CheckBox((400, 10, -10, 20), "Turn on Localized Forms", value=True, callback=self.SavePrefs )
+		self.w.list = List((10, 40, -10, -40), pangrams, columnDescriptions=[{"title": "lang", "width": 200}, {"title": "phrase", "width": 400}, {"title": "usesAllLetters", "width": 300}], selectionCallback=self.SavePrefs)
 		self.w.button = Button((10, -30, -10, 20), "OpenTab", callback=self.buttonCallback)
+		self.w.setDefaultButton( self.w.button )
+
+
+		# Use defaults if no saved preferences
+
+		if not self.LoadPrefs( ):
+			print "Note: Could not load preferences. Will resort to defaults."
+
 		self.w.open()
+
+
 	
 	def buttonCallback(self, sender):
-		listIndexes = self.w.list.getSelection()
-		showLocalizedForms = self.w.checkBox.get()
-		for i in listIndexes:
+		listIndex = self.w.list.getSelection()
+		showLocalizedForms = self.w.localizedFormCheckBox.get()
+
+		# Save Prefs
+		self.SavePrefs(self)
+
+		for i in listIndex:
 			# Pangram data
 			phrase = pangrams[i]["phrase"]
 			iso = pangrams[i]["iso"]
@@ -68,5 +82,20 @@ class PangramSelecter(object):
 		# Close
 		self.w.close() 
 
+
+	# Persist selection for next time
+	def SavePrefs( self, sender ):
+		print "SavePrefs()"
+		Glyphs.defaults["com.tderkert.ChoiceOfPangram.listSelection"] =        self.w.list.getSelection()
+		Glyphs.defaults["com.tderkert.ChoiceOfPangram.turnOnLocalizedForms"] = self.w.localizedFormCheckBox.get()
+		return True
+	
+	def LoadPrefs( self ):
+		try:
+			self.w.localizedFormCheckBox.set( Glyphs.defaults["com.tderkert.ChoiceOfPangram.turnOnLocalizedForms"] )
+			self.w.list.setSelection(         Glyphs.defaults["com.tderkert.ChoiceOfPangram.listSelection"] )
+			return True
+		except:
+			return False
 
 PangramSelecter()
