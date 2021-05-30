@@ -1,7 +1,7 @@
-#MenuTitle: New Tab With Pangram from Selected Langauge
+#MenuTitle: New Tab With Pangram from Selected Language
 # -*- coding: utf-8 -*-
 __doc__="""
-Select a language in list and open a new tab with a pangram
+Select a language in list and open a new tab with a pangram. (Source: Clagnut)
 """
 
 
