@@ -1,17 +1,21 @@
-#MenuTitle: Delete All Anchors
+#MenuTitle: Delete All Anchors In Current Layer
 # -*- coding: utf-8 -*-
-"""Deletes all anchors in active layers of selected glyphs."""
+
+__doc__="""
+Delete all anchors in current layer, in selected glyphs.
+"""
+
 
 import GlyphsApp
 
 Font = Glyphs.font
 selectedLayers = Font.selectedLayers
 
-print "Deleting anchors in:"
+print ("Deleting anchors in:")
 
 for thisLayer in selectedLayers:
 	thisGlyph = thisLayer.parent
-	print "-- %s" % thisGlyph.name
+	print ("-- %s" % thisGlyph.name)
 	thisGlyph.beginUndo()	
 	thisLayer.setAnchors_( None )
 	thisGlyph.endUndo()

@@ -1,7 +1,7 @@
-#MenuTitle: New Tab With Glyphs Containing Unaligned Components
+#MenuTitle: New Tab With Glyphs Containing Non-Auto-Aligned Components
 # -*- coding: utf-8 -*-
 __doc__="""
-New tab with glyphs containing unaligned components (only in current master)
+New tab with glyphs containing non-auto-aligned components (only in current master)
 """
 
 font = Glyphs.font

@@ -8,7 +8,7 @@ font = Glyphs.font
 glyphs = font.glyphs
 brackets = ('[',']')
 
-print "Copy metrics to bracket Layers"
+print ("Copy metrics to bracket Layers")
 for glyph in glyphs:
 	for layer in glyph.layers:
 		for bracket in brackets:
@@ -21,7 +21,7 @@ for glyph in glyphs:
 				layer.RSB = pMasterLayer.RSB
 
 				# Log changes
-				print glyph.name + ':', pMasterLayer.name, '->' ,layer.name
+				print (glyph.name + ':', pMasterLayer.name, '->' ,layer.name)
 
 				# Stop checking for brackets
 				break
