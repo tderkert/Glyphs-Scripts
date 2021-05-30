@@ -10,6 +10,5 @@ Python scripts for [Glyphs](glyphsapp.com) font editor.
 * **New Tab With Random Words:** New tab with 10 random words from 'http://www.wordnik.com' API. (internet connection required)  
 * **Print An Array Of All Unicode Glyphs In String Format**  
 * **Sync All Bracket Layer Metrics With Parent Layer:** Copies metrics from master layer to its associated bracket layers. 
-* **Create copy of a master layer with new name:** Select a master to create a duplicate layer with new name. 
 * **Round kerning:** Round kerning by specified quantization and set minimum value. 
 * **Instance Slider For Preview Panel:** Use a slider to quickly switch between instances in Preview Panel. Use the combobox to quickly switch between instances using up and down arrow keys.  
