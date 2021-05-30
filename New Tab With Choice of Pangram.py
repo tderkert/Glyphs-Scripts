@@ -31,7 +31,7 @@ class PangramSelecter(object):
 		# Use defaults if no saved preferences
 
 		if not self.LoadPrefs( ):
-			print "Note: Could not load preferences. Will resort to defaults."
+			print ("Note: Could not load preferences. Will resort to defaults.")
 
 		self.w.open()
 
@@ -84,7 +84,7 @@ class PangramSelecter(object):
 
 	# Persist selection for next time
 	def SavePrefs( self, sender ):
-		print "SavePrefs()"
+		print ("SavePrefs()")
 		Glyphs.defaults["com.tderkert.ChoiceOfPangram.listSelection"] =        self.w.list.getSelection()
 		Glyphs.defaults["com.tderkert.ChoiceOfPangram.turnOnLocalizedForms"] = self.w.localizedFormCheckBox.get()
 		return True
