@@ -3,6 +3,7 @@ Python scripts for [Glyphs](glyphsapp.com) font editor.
 
 
 ## Scripts
+* **Batch Create Intermediate Layer:** Batch create intermediate layers for selected glyphs, based on selected master layer. Useful for creating "clamped" interpolation for small glyphs(E.g. fraction figures). (Single Axis Only)
 * **Delete Anchors In Current Layer:** Delete all anchors in current layer, in selected glyphs.
 * **Instance Slider For Preview Panel:** Use a slider to quickly switch between instances in Preview Panel. Use the combobox to quickly switch between instances using up and down arrow keys.  
 * **New Tab With Glyphs Containing Both Components And Paths In Same Layer:** Open new tab with glyphs containing both components and paths in same layer (only in current layer)  
