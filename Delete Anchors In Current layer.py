@@ -1,4 +1,4 @@
-#MenuTitle: Delete All Anchors In Current Layer
+#MenuTitle: Delete Anchors In Current Layer
 # -*- coding: utf-8 -*-
 
 __doc__="""

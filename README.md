@@ -3,7 +3,7 @@ Python scripts for [Glyphs](glyphsapp.com) font editor.
 
 
 ## Scripts
-* **Delete All Anchors In Current Layer:** Delete all anchors in current layer, in selected glyphs.
+* **Delete Anchors In Current Layer:** Delete all anchors in current layer, in selected glyphs.
 * **Instance Slider For Preview Panel:** Use a slider to quickly switch between instances in Preview Panel. Use the combobox to quickly switch between instances using up and down arrow keys.  
 * **New Tab With Glyphs Containing Both Components And Paths In Same Layer:** Open new tab with glyphs containing both components and paths in same layer (only in current layer)  
 * **New Tab With Glyphs Containing Bracket Layers:** Open new tab with glyphs containing bracket layers. (Glyphs 2)  
