@@ -10,8 +10,7 @@ Python scripts for [Glyphs](glyphsapp.com) font editor.
 * **New Tab With Glyphs Containing Bracket Layers:** Open new tab with glyphs containing bracket layers. (Glyphs 2)  
 * **New Tab With Glyphs Containing Unaligned Components:** Open new tab with glyphs containing unaligned components (only in current layer)  
 * **New Tab With Pangram From Selected Language:** Select a language in list and open a new tab with a pangram.(~200 pangrams) (Source: [clagnut](http://clagnut.com/blog/2380/))  
-* **Print All Unicode Glyphs Split By Non-Width Space**  
-* **Print All Unicode Glyphs Split By Space**   
+* **New Tab With Unicode Glyphs Separated by A Glyph**: Input the name of a glyph to use as separator.  
 * **Print An Array Of All Unicode Glyphs In String Format:**  ["a", "b", "c"]. Print in Macro console.  
 * **Round Kerning:** Round kerning by specified quantization and set minimum value.  
 * **Sync All Bracket Layer Metrics With Parent Layer:** Copies metrics from master layer to its associated bracket layers.  
