@@ -1,7 +1,7 @@
 #MenuTitle: New Tab With Unicode Glyphs Separated by A Glyph
 # -*- coding: utf-8 -*-
 __doc__="""
-New Tab With Unicode Glyphs Separated by A Glyph
+Input the name of a glyph to use as separator.
 """
 
 font = Glyphs.font
