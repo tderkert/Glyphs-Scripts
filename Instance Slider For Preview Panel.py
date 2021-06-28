@@ -62,6 +62,13 @@ def updateUI(instance, self, sender):
 	# Update Preview Panel
 	font.currentTab.previewInstances = instance
 
+	# Text values
+	axes = instance.axes
+	axesValuesString = ""
+	for a in axes:
+		axesValuesString = axesValuesString + str(int(a)) + " "
+	self.w.axesValue.set(axesValuesString)
+
 	# Update Script UI	
 	if sender is self.w.slider:
 		self.w.comboBox.set(instance.name)
@@ -77,21 +84,27 @@ def updateUI(instance, self, sender):
 # UI Class
 class UpdateInstanceInPreviewPanel():
 	def __init__( self):
-		self.w = vanilla.FloatingWindow((230, 100), 
+		# Window
+		self.w = vanilla.FloatingWindow((230, 120), 
 								"Instance In Preview Panel Slider", 
 								minSize=(230, 108), 
 								maxSize=(260, 200))
-
+		# Slider
 		self.w.slider = vanilla.Slider((12, 10, -12, 23),
 								tickMarkCount=totalInstances,
 								value=instanceToPercent(previewInstances),
 								stopOnTickMarks=1,
 								sizeStyle="small",
 								callback=self.SliderCallback)
-
+		# Combobox
 		self.w.comboBox = vanilla.ComboBox((12, 50, -12, 21),
 								items=instanceListNames,
 								callback=self.ComboBoxCallback)
+		# Axes values preview
+		self.w.axesValueLabel = vanilla.TextBox((12, 84, -12, 21), "Axes position:")
+		self.w.axesValue =      vanilla.TextBox((12, 84, -12, 21), " ",
+								alignment="right")
+		
 
 		# Set initial comboBox Value
 		self.w.comboBox.set(previewInstances.name)
