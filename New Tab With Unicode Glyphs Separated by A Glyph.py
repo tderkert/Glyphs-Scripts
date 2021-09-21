@@ -4,6 +4,7 @@ __doc__="""
 Input the name of a glyph to use as separator.
 """
 
+import vanilla
 font = Glyphs.font
 glyphs = font.glyphs
 
